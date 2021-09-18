@@ -1,0 +1,526 @@
+blic"	"PÃºblica"
+	"Library_UploadScreenshotFriendsOnly"	"SÃ³ amigos"
+	"Library_UploadScreenshotPrivate"	"Privada"
+	"Library_UploadScreenshotPublicAndFacebook" "PÃºblica + Facebook"
+	"Library_UploadScreenshotWorking"	"Processando"
+	"Library_UploadScreenshotOK"		"ENVIAR"
+	"Library_UploadScreenshotCancel"	"CANCELAR"
+	"Library_Details_RemoveFromFavorites"	"Remover dos favoritos"
+	"Library_Details_AddToFavorites"	"Adicionar aos favoritos"
+	"Library_Details_AllowDesktopConfig"	"Usar configuraÃ§Ã£o para Ã¡rea de trabalho no inicializador"
+	"Library_Details_ChangeXInputOrderButton"	"Alterar ordem dos controles em jogos XInput"
+	"Library_CDKeyTitle"			"CÃ³digos de produto de {s:gamename}"
+	"Library_CDKey_Description"		"Pode ser necessÃ¡rio inserir um cÃ³digo no jogo. Selecione um dos cÃ³digos para copiÃ¡-lo e use o teclado virtual do Steam para colÃ¡â€“lo no jogo."
+	"Library_CDKey_DontShowAgain"		"NÃ£o exibir isso novamente"
+	"Library_CopyToClipboardButton"		"COPIAR CÃ“DIGO"
+	"Library_CloseButton"			"FECHAR"
+	"Library_CopyToClipboardAndLaunchButton"		"COPIAR CÃ“DIGO E INICIAR"
+	"Library_LaunchButton"			"INICIAR"
+	"Library_CDKeyFetchErrorTitle"		"Erro"
+	"Library_CDKeyFetchError"		"NÃ£o foi possÃ­vel recuperar os dados das suas chaves de produto no momento. Tente novamente mais tarde."
+	"Library_CDKeyFetchWorking"		"Processando"
+	"Library_CloudConflictTitle"		"Conflito na sincronizaÃ§Ã£o com a Nuvem"
+	"Library_CloudConflict_Description"	"Os seus arquivos locais de {s:gamename} estÃ£o em conflito com aqueles armazenados na Nuvem Steam."
+	"Library_CloudConflict_Upload"		"Enviar os meus arquivos locais para a Nuvem Steam"
+	"Library_CloudConflict_LocalFilesModified"	"Ãšltima modificaÃ§Ã£o dos arquivos locais: {t:s:localmodified} Ã s {t:T:localmodified}"
+	"Library_CloudConflict_Download"	"Baixar os arquivos na nuvem para este computador"
+	"Library_CloudConflict_CloudFilesModified"	"Ãšltima modificaÃ§Ã£o dos arquivos na nuvem {t:s:remotemodified} Ã s  {t:T:remotemodified}"
+	"Library_CloudConflict_Cancel"		"NÃ£o fazer nada agora"
+	"Library_CloudConflict_CancelDetails"	"VocÃª precisa escolher entre enviar ou baixar para iniciar o jogo"
+	"Library_CloudSyncFailed_Title"		"Erro â€” Nuvem Steam"
+	"Library_CloudSyncFailed_Detail"	"NÃ£o foi possÃ­vel sincronizar os seus arquivos de {s:gamename} com a Nuvem Steam.\n\nSe vocÃª iniciou este aplicativo em outro computador, as configuraÃ§Ãµes e/ou progresso no aplicativo podem nÃ£o estar em sincronia com o que estÃ¡ armazenado na Nuvem. Se iniciar agora, vocÃª pode perder essas alteraÃ§Ãµes ou progressos."
+	"Library_CloudSyncFailed_LaunchAnyway"	"INICIAR MESMO ASSIM"
+	"Library_StreamingSource_Installed"		"(Instalado)"
+	"Library_StreamingSource_ThisMachine"	"Esta mÃ¡quina"
+	"Library_StreamSources"					"Fontes locais e de transmissÃ£o"
+	"Library_StreamSources_Desc"			"Selecione uma mÃ¡quina abaixo para escolhÃª-la como a fonte de onde deseja jogar ou transmitir."
+
+	"Library_Settings_Organize"				"Organizar"
+	"Library_Settings_Preferences"			"PreferÃªncias"
+	"Library_Settings_ControllerSettings"	"ConfiguraÃ§Ã£o de controle"
+	"Library_Settings_Support"				"Suporte"
+	"Library_Settings_Content"				"ConteÃºdo"
+	"Library_Settings_Misc"					"Mais"
+
+	"Library_TagHeader" "Filtrar por marcador"
+	"Library_CategoryHeader" "Suas categorias"
+	"Library_TypeHeader" "Filtrar por tipo"
+	"Library_NameHeader" "Filtrar por nome"
+	"Library_FilterHeader" "Filtrar {s:apptype}"
+	"Library_InstalledLocally" "Instalados localmente"
+	"Library_GamesICanPlay" "JogÃ¡veis"
+	"Library_VRFilter" "CompatÃ­vel com RV"
+	"Library_ReadyToPlay" "Pronto para jogar"
+	"Library_LocalMultiplayer" "Multijogador local"
+	"Library_RemotePlayOptimized" "Otimizado para Remote Play"
+	"Library_SteamPlay1" "Steam Play (certificado)"
+	"Library_SteamPlay2" "Steam Play (nÃ£o certificado)"
+	"Library_Unplayed" "NÃ£o jogado"
+	"Library_PlatformFilter" "Jogos para {s:platformname}"
+	"Library_ControllerSupported" "CompatÃ­vel com controle"
+	"Library_Hidden" "Jogos ocultos"
+	"Library_Unblocked" "Jogos da famÃ­lia"
+	"Library_SearchGames" "Buscar na biblioteca..."
+	"Library_ClearButton" "Limpar filtros"
+	"Library_HideFiltersButton" "Ocultar filtros"
+	"Library_AllGamesPlay" "JOGAR"
+	"Library_AllGamesHome" "INÃCIO"
+	"Library_AllGamesBrowse" "NAVEGAR"
+	"Library_AllGamesOptions" "OPÃ‡Ã•ES"
+	"Library_AllGamesSearch" "BUSCAR"
+	"Library_AllGamesFilter" "FILTRAR"
+	"Library_HintSearch" "Buscar..."
+	"Library_Suggested_Empty" "A sua biblioteca estÃ¡ vazia"
+	"Library_Suggested_EmptyDetails" "Aqui estÃ£o algumas coisas para fazer no Steam"
+	"Library_Suggested_FreeGames_Header" "Jogos gratuitos populares no Steam"
+	"Library_Suggested_BrowseStore" "Navegar pela loja Steam"
+	"Library_Suggested_BrowseStore_Free" "Descobrir jogos gratuitos para jogar"
+	"Library_Suggested_BrowseStore_AllGames" "Ver todos os jogos"
+	"Library_Suggested_Recent_Header" "Continue de onde parou"
+	"Library_Suggested_Popular_Header" "Populares entre amigos"
+	"Library_Suggested_Unplayed_Header" "Comece algo novo"
+	"Library_Suggested_LastPlayed_Recent"	"Ãšltima vez <span class=\"LastPlayedDate\">{t:r:s:lastplayed}</span>"
+	"Library_Suggested_PopularFriendsPlaying" "<span class=\"FriendsPlaying\"><img src=\"file://{images}/library/icon_friend_green.png\" /> {i:friendsplaying}</span>"
+	"Library_Suggested_PopularFriendsPlayed" "<img src=\"file://{images}/library/icon_friend_grey.png\" /> {i:friendsplayed}"
+	"Library_Suggested_PopularFriendsPlaying_Expanded" "<span class=\"FriendsPlaying\"><img src=\"file://{images}/library/icon_friend_green.png\" /> {i:friendsplaying} amigo jogando</span>"
+  "Library_Suggested_PopularFriendsPlaying_Expanded_Plural" "<span class=\"FriendsPlaying\"><img src=\"file://{images}/library/icon_friend_green.png\" /> {i:friendsplaying} amigos jogando</span>"
+  "Library_Suggested_PopularFriendsPlayed_Expanded" "<img src=\"file://{images}/library/icon_friend_grey.png\" /> {i:friendsplayed} amigo jogou"
+  "Library_Suggested_PopularFriendsPlayed_Expanded_Plural" "<img src=\"file://{images}/library/icon_friend_grey.png\" /> {i:friendsplayed} amigos jogaram"
+	"Library_Suggested_UnplayedRandom" "Nunca jogado"
+	"Library_Suggested_PlayedRandom" "Escolhido aleatoriamente"
+	"Library_Suggested_UnplayedStore" "Popular no Steam"
+	"Library_Suggested_UnplayedMRU" "RecÃ©m-comprado"
+	"Library_Suggested_FreeToPlay" "Jogue jÃ¡!"
+
+	"Library_Filter_RecentlyPlayed" "RecÃ©m-jogados"
+	"Library_Filter_Installed" "Instalados"
+	"Library_Filter_ControllerSupported" "CompatÃ­veis com controle"
+	"Library_Filter_Unblocked" "Jogos da famÃ­lia"
+	"Library_Filter_ICanPlay" "Posso jogar"
+	"Library_Filter_InstalledLocally" "Instalados localmente"
+	"Library_Filter_Hidden" "Ocultos"
+	"Library_Filter_Empty" "Todos"
+	"Library_Filter_FilterStringDisplay" "{d:foundcount} encontrados em: <span class=\"AllGamesFilterResults\">{s:filter}</span>"
+	"Library_Filter_TypeGames" "Jogos"
+	"Library_Filter_TypeVideo" "VÃ­deos"
+	"Library_Filter_TypeMusic" "MÃºsica"
+	"Library_Filter_MusicByTitle" "Ordenar por tÃ­tulo"
+	"Library_Filter_MusicByArtist" "Ordenar por artista"
+	"Library_AllGames_EmptyGrid" "Estamos sem resultados..."
+	"Library_AllGames_EmptySearchGrid" "Buscar na sua biblioteca Steam"
+
+
+	"Library_Details_EditUpdateOptions" "Definir opÃ§Ãµes de atualizaÃ§Ã£o..."
+	"Library_EditUpdateOptions_Title"	"AtualizaÃ§Ãµes"
+	"Library_AutoUpdate_CodeLabel"	"AtualizaÃ§Ãµes automÃ¡ticas"
+	"Library_AutoUpdate_Enabled"	"Sempre manter atualizado"
+	"Library_AutoUpdate_Disabled"	"NÃ£o atualizar automaticamente"
+	"Library_AutoUpdate_HighPriority"	"Alta prioridade â€” Atualizar o mais breve possÃ­vel"
+	"Library_BackgroundUpdates_Label" "Enquanto {s:gamename} estiver aberto"
+
+	"Library_Details_EditSteamPlayOptions" "Configurar opÃ§Ãµes do Steam Play..."
+	"Library_EditSteamPlayOptions_Title"	"Steam Play"
+	"Library_EditSteamPlayOptions_SteamPlayOverrideTool"	"ForÃ§ar uso de ferramenta de compatibilidade do Steam Play especÃ­fica"
+
+	"Library_AppAllowDownloadsDuringGameplay_DefaultEnable" "ConfiguraÃ§Ã£o global (permitir downloads em 2Âº plano)"
+	"Library_AppAllowDownloadsDuringGameplay_DefaultDisable" "ConfiguraÃ§Ã£o global (impedir downloads em 2Âº plano)"
+	"Library_AppAllowDownloadsDuringGameplay_Always" "Sempre permitir downloads em 2Âº plano"
+	"Library_AppAllowDownloadsDuringGameplay_Never" "Nunca permitir downloads em 2Âº plano"
+
+	"Steam_LaunchOption_Game"							"Jogar {s:gamename}"
+	"Steam_LaunchOption_Application"			"Iniciar {s:gamename}"
+	"Steam_LaunchOption_SafeMode"					"Iniciar {s:gamename} no modo de seguranÃ§a"
+	"Steam_LaunchOption_VR"								"Iniciar {s:gamename} no modo SteamVR"
+	"Steam_LaunchOption_othervr"						"Launch {s:gamename} em modo RV externo"
+	"Steam_LaunchOption_openvroverlay"					"Iniciar {s:gamename} como painel do SteamVR"
+	"Steam_LaunchOption_Server"						"Iniciar servidor dedicado"
+	"Steam_LaunchOption_Editor"						"Iniciar editor do jogo"
+	"Steam_LaunchOption_Config"						"Iniciar ferramenta de configuraÃ§Ã£o"
+	"Steam_LaunchOption_Manual"						"Exibir manual"
+	"Steam_LaunchOption_Benchmark"				"Iniciar ferramenta de benchmark"
+
+
+	"Activate_SubscriptionSuccess_Headline" "AtivaÃ§Ã£o bem-sucedida!"
+	"Activate_SubscriptionSuccess" "O seu cÃ³digo de produto foi ativado com sucesso. Este(s) produto(s) estÃ£o agora associados permanentemente Ã  sua conta Steam. VocÃª deve iniciar a sessÃ£o com esta conta para ter acesso aos itens que vocÃª acabou de ativar no Steam."
+	"Activate_SubscriptionSuccess_ComingSoonOnly" "O seu cÃ³digo de produto foi ativado com sucesso. O conteÃºdo ficarÃ¡ disponÃ­vel assim que o jogo lanÃ§ar no Steam. VocÃª deve iniciar a sessÃ£o com esta conta para ter acesso aos itens que vocÃª acabou de ativar no Steam."
+	"Activate_InvalidCode_Headline" "CÃ³digo de produto invÃ¡lido"
+	"Activate_InvalidCode" "O cÃ³digo de produto inserido nÃ£o Ã© vÃ¡lido.\n\nVerifique se vocÃª o digitou corretamente. Pode haver confusÃ£o entre I, L e 1, assim como V e Y, e 0 e O."
+	"Activate_ServiceUnavailable_Headline" "Servidor Steam indisponÃ­vel"
+	"Activate_ServiceUnavailable" "O seu computador pode estar com problemas de conexÃ£o aos servidores Steam ou o serviÃ§o pode estar temporariamente desativado. Tente novamente mais tarde."
+	"Activate_ContactSupport_Headline" "Erro ao comprar"
+	"Activate_ContactSupport" "Ocorreu um erro inesperado. A sua assinatura de {s:subscription} nÃ£o foi concluÃ­da.\n\nEntre em contato com o Suporte Steam."
+	"Activate_Subscription_Rejected_Headline" "CÃ³digo de produto duplicado"
+	"Activate_Subscription_Rejected" "O cÃ³digo de produto inserido jÃ¡ foi ativado por uma outra conta Steam e, por isso, Ã© invÃ¡lido. A sua ativaÃ§Ã£o de {s:subscription} nÃ£o foi concluÃ­da."
+	"Activate_AlreadyPurchased_Headline" "Produto jÃ¡ adquirido"
+	"Activate_AlreadyPurchased" "Esta conta Steam jÃ¡ possui o(s) produto(s) associado(s) a esse cÃ³digo de produto. Clique em \"OK\" para continuar com a instalaÃ§Ã£o."
+	"Activate_RateLimited_Headline" "Muitas tentativas de ativaÃ§Ã£o"
+	"Activate_RateLimited" "Houve muitas tentativas de ativaÃ§Ã£o realizadas sem sucesso com esta conta. Aguarde e tente usar o seu cÃ³digo de produto novamente mais tarde."
+	"Activate_RestrictedCountry_Headline" "IndisponÃ­vel"
+	"Activate_RestrictedCountry" "Lamentamos, mas {s:subscription} nÃ£o estÃ¡ disponÃ­vel para compra neste paÃ­s. A sua compra foi cancelada."
+	"Activate_MustOwnOtherApp_Headline" "AtivaÃ§Ã£o de jogo base necessÃ¡ria"
+	"Activate_MustOwnOtherApp" "O cÃ³digo de produto inserido requer que vocÃª tenha outro produto antes desta ativaÃ§Ã£o.\n\nCaso esteja tentando ativar um pacote de expansÃ£o ou conteÃºdo adicional (DLC), primeiro ative o jogo base e depois ative o conteÃºdo adicional."
+	"Activate_MustLoginPS3_Headline" "A sua conta nÃ£o jogou {s:gamename} no sistema PlayStationÂ®3"
+	"Activate_MustLoginPS3" "O cÃ³digo de produto inserido requer que vocÃª primeiro jogue {s:gamename} no sistema PlayStationÂ®3 antes de poder ser registrado.\n\nPor favor:\n\n- Inicie {s:gamename} no seu sistema PlaystationÂ®3\n\n- Vincule a sua conta Steam Ã  sua conta PlayStationÂ® Network\n\n- Conecte-se ao Steam enquanto joga {s:gamename} no sistema PlaystationÂ®3\n\n- Registre este cÃ³digo de produto pelo Steam"
+
+	"Tenfoot_InstallServiceTitle" "Instalando componente de serviÃ§o do Steam"
+	"Tenfoot_InstallServiceText" "Para usar o Steam de forma apropriada nesta versÃ£o do Windows, o componente de serviÃ§o do Steam precisa ser instalado.\n\nO processo de instalaÃ§Ã£o do serviÃ§o requer privilÃ©gios de administrador."
+	"Tenfoot_InstallServiceOk" "INSTALAR SERVIÃ‡O"
+	"Tenfoot_InstallServiceCancel" "CANCELAR"
+
+	"Profile_Loading" "Carregando"
+	"Profile_Offline" "Lamentamos, mas nÃ£o foi possÃ­vel comunicar-se com a Comunidade Steam!"
+	"Profile_OpenFriendActivity" "ATIVIDADE DOS AMIGOS"
+	"Profile_OpenMyProfile"	     "PERFIL"
+	"Profile_OpenMyInventory"	"INVENTÃRIO"
+
+	"Profile_Profile_Title"		"Perfil"
+	"Profile_Inventory_Title"	"InventÃ¡rio"
+	"Profile_TradeOffers_Title"	"Propostas de troca"
+	"Profile_NewTradeOffer_Title"	   "Proposta de troca"
+
+	"SteamUI_JoinDialog_DataRequest_Text" "Concluindo a instalaÃ§Ã£o ... {d:progress}%"
+
+	"Notification_GameInviteBody"		"convidou vocÃª para jogar {s:gamename}"
+	"Notification_TheSteamCommunity"	"A Comunidade Steam"
+	"Notification_AccessWhilePlaying"	"Acesse enquanto joga"
+	"Notification_HasFinishedDownload"	"Download concluÃ­do"
+	"Notification_IsNowOnline"		"estÃ¡ online"
+	"Notification_IsNowPlaying"		"iniciou {s:gamename}"
+	"Notification_MultipleIsNowPlaying"		"{d:InGameCount} amigos estÃ£o em jogo."
+	"Notification_BannedFromChat"		"baniu vocÃª da conversa {s:chatname}"
+	"Notification_KickedFromChat"		"expulsou vocÃª da conversa {s:chatname}"
+	"Notification_VoiceChat"		"convidou vocÃª para conversar por voz"
+	"Notification_ChatInvite"		"convidou vocÃª para a conversa {s:chatname}"
+	"Notification_FriendInvite"		"adicionou vocÃª como amigo"
+	"Notification_TradeInvite"		"convidou vocÃª para trocar"
+	"Notification_HasSentYouAGift"		"enviou um presente para vocÃª"
+	"Notification_ItemReceivedSingular"	"VocÃª tem 1 novo item no seu inventÃ¡rio"
+	"Notification_ItemsReceived"		"VocÃª tem {d:numItems} novos itens no seu inventÃ¡rio"
+	"Notification_ClanInvite"		"VocÃª foi convidado para entrar no grupo {s:clanname}"
+	"Notification_ClanInviteSimple"		"convidou vocÃª para entrar no grupo"
+	"Notification_StatusUpdate"		"diz: {s:statustext}"
+	"Notification_ClanEvent"		"{s:clanname} {s:action}: {s:event}"
+	"Notification_AchievementHeadline_Unlocked"	"Conquista alcanÃ§ada!"
+	"Notification_AchievementHeadline_Progress"	"Progresso da conquista"
+	"Notification_AchievementBody_Unlocked"	"{s:achievement}"
+	"Notification_AchievementBody_Progress"	"{s:achievement} ({s:cur}/{s:max})"
+	"Notification_ScreenshotTaken"			"Tela capturada!"
+	"Notification_MultipleScreenshotsTaken"	"{d:numscreenshots} capturas salvas!"
+	"Notification_RefreshLogin"				"Esta conta estÃ¡ com uma sessÃ£o aberta em outro local."
+	"Notification_RemoteClientTitle"		"Steam Remote Play"
+	"Notification_RemoteClientConnected"	"{s:machine} disponÃ­vel para transmissÃ£o"
+	"Notification_RemoteClientDisconnected"	"{s:machine} nÃ£o mais disponÃ­vel para transmissÃ£o"
+	"Notification_StreamingStarted"	"TransmissÃ£o de {s:hostname} a {s:machine}"
+	"Notification_StreamingStopped"	"TransmissÃ£o a {s:machine} interrompida"
+	"Notification_NewTurns"		"VocÃª possui {d:numItems} novos turnos pendentes"
+	"Notification_NewTurnsSingular"	"VocÃª possui 1 novo turno pendente"
+	"Notification_NetworkConnected"			"Conectado Ã  rede"
+	"Notification_NetworkDisconnected"		"Desconectado da rede"
+	"Notification_SteamUpdateAvailable"     "AtualizaÃ§Ã£o disponÃ­vel"
+	"Notification_RestartToUpdate"          "Reinicie para atualizar"
+	"Notification_FriendsInvites"		"{d:InviteCount} pedidos de amizade pendentes."
+	"Notification_FriendsInviteCount"	"+{d:InviteCount}"
+	"Notification_ClanInvites"		"{d:InviteCount} convites para grupos pendentes."
+	"Notification_ClansInviteCount"	"+{d:InviteCount}"
+	"Notification_MultipleIsNowPlayingCount" "+{d:InGameCount}"
+	"Notification_SteamLinkAuth_Title"	"Dispositivo remoto detectado"
+	"Notification_SteamLinkAuth_Text"	"Insira o cÃ³digo de acesso para confirmar"
+	"Notification_Controller_Title"		"{s:controllername}"
+	"Notification_Controller_Text"		"Usando configuraÃ§Ãµes de {s:accountname}"
+	"Notification_Controller_Guest"		"Usando conta de convidado."
+	"Notification_ControllerConfigActivated_Text1" "CONFIGURAÃ‡ÃƒO CARREGADA"
+	"Notification_ControllerConfigActivated_Text2" "{s:configname}"
+	"Notification_ControllerConfigActivated_Text3" "Edite-a no painel do modo Big Picture"
+	"Notification_LowBattery" "{d:BatteryTime} minuto(s) de bateria restante(s)"
+
+	"Notification_VirtualHere"			"VirtualHere"
+	"Notification_PurchaseVirtualHere"	"DisponÃ­vel na Loja Steam para compartilhamento USB"
+	
+	"Notification_Controller_Player_Number_Title"	"Jogadores trocados"
+	"Notification_Controller_Player_Number_Changed1"	"{s:controller}"
+	"Notification_Controller_Player_Number_Changed2"    "agora Ã© o jogador nÂº {d:player_number}"
+	"Notification_NetworkStateChange"	"Estado da rede alterado"
+	"Friends_GroupEvent_NowStarting"		"Evento comeÃ§ando"
+
+	"Friends_GroupEvent_NewEventScheduled"	"marcou um evento"
+	"Friends_GroupEvent_NewAccouncement"	"publicou um anÃºncio"
+
+	"Friends_Header_Recent"		"Conversas recentes"
+	"Friends_Header_Online"		"Online"
+	"Friends_Header_Offline"		"Offline"
+
+
+	"Steam_DeleteCacheConfirmation_Title"		"Desinstalar?"
+	"Steam_DeleteCacheConfirmation_Text"		"{s:gamename} permanecerÃ¡ na sua biblioteca, mas para jogÃ¡-lo no futuro vocÃª precisarÃ¡ baixÃ¡-lo novamente."
+	"Steam_DeleteApplicationConfirmation_Text"	"Isso excluirÃ¡ todo o conteÃºdo de {s:gamename} deste computador.\n\nO aplicativo permanecerÃ¡ na sua biblioteca, mas para usÃ¡-lo no futuro vocÃª primeiro deverÃ¡ baixÃ¡-lo novamente."
+	"Steam_DeleteFreeCacheConfirmation_Text"		"Isso excluirÃ¡ todo o conteÃºdo de {s:gamename} deste computador."
+	"Steam_CantDeleteCache_Title"			"Steam â€” NÃ£o foi possÃ­vel excluir {s:gamename}"
+	"Steam_CantDeleteCache_Info"			"NÃ£o foi possÃ­vel excluir {s:gamename}, jÃ¡ que os seus arquivos sÃ£o usados pelos seguintes jogos: {s:dependantgames}"
+	"Steam_CantDeleteAppItsRunning_Info"		"NÃ£o foi possÃ­vel excluir {s:gamename}, jÃ¡ que estÃ¡ em execuÃ§Ã£o no momento. Feche {s:gamename} antes de tentar excluÃ­-lo."
+	"SteamUI_SecuROM_Revoke_Error_Title"	"Steam â€” Falha ao desinstalar"
+	"SteamUI_SecuROM_Revoke_Error_Text"		"A desinstalaÃ§Ã£o deste aplicativo requer uma conexÃ£o Ã  internet."
+	"SteamUI_OldClient_Title" "Desatualizado"
+	"SteamUI_OldClient" "O seu cliente precisa ser atualizado para executar esse jogo."
+	"SteamUI_ParentalControl_Title" "Controle dos Pais do Windows"
+	"SteamUI_ParentalControl_Blocked" "Jogo bloqueado para o usuÃ¡rio atual pelo Controle dos Pais do Windows."
+	"SteamUI_WrongPlatform_Title" "Jogo nÃ£o disponÃ­vel"
+	"SteamUI_WrongPlatform" "{s:gamename} nÃ£o estÃ¡ disponÃ­vel na sua plataforma atual."
+	"SteamUI_Game_Requires_NTFS"		"Jogo requer NTFS"
+	"SteamUI_GameRequires_NTFS_Detail"	"O jogo que vocÃª estÃ¡ instalando requer um disco com o sistema de arquivos NTFS e nÃ£o pode ser instalado em um sistema de arquivos FAT32."
+	"SteamUI_OfflineMode_GameNotReady"		"Este jogo nÃ£o estÃ¡ pronto para ser jogado no modo offline."
+	"SteamUI_OfflineMode_GameNotReady_Title"	"Jogo indisponÃ­vel"
+
+	"Steam_Preload_GameNotReady_Title" "Atualmente indisponÃ­vel"
+	"Steam_Preload_GameNotReady" "Este jogo ainda nÃ£o foi lanÃ§ado. Ele serÃ¡ desbloqueado\ne estarÃ¡ disponÃ­vel para jogar na data de lanÃ§amento oficial."
+
+	"Steam_RunGame_Title_Error"			"Erro"
+	"Steam_RunGame_AnotherGameIsBeingRan"	"NÃ£o foi possÃ­vel executar o jogo. VocÃª tem outra inicializaÃ§Ã£o em andamento, aguarde atÃ© que seja concluÃ­da."
+	"Steam_RunGame_Title_ConvertingToSteam3Content"		"Sistema de ConteÃºdo Steam"
+	"Steam_RunGame_ConvertingToSteam3Content"			"Este jogo estÃ¡ sendo convertido para o novo sistema de conteÃºdo do Steam"
+	"Steam_ModNeedsFullGame_Title"	"Erro"
+	"Steam_ModNeedsFullGame_Info"	"{s:gamename} Ã© uma mod e requer que vocÃª possua uma versÃ£o do jogo base."
+	"Steam_ModNeedsFullGame_Button"	"Obter mais informaÃ§Ãµes"
+	"Steam_ErrorPurchasePending_Title"	"Compra pendente"
+	"Steam_ErrorPurchasePending_Info"	"A sua compra ainda estÃ¡ sendo processada â€” o Steam notificarÃ¡ vocÃª quando a transaÃ§Ã£o for concluÃ­da.\nAtÃ© lÃ¡, este jogo nÃ£o estarÃ¡ disponÃ­vel para ser jogado."
+	"Steam_Media_GenericFailure"				"Falha ao adicionar mÃ­dia Ã  lista."
+	"Steam_Media_ErrorNotEnoughDiskSpace"		"VocÃª nÃ£o tem espaÃ§o em disco suficiente para reproduzir este conteÃºdo. Libere espaÃ§o em disco e tente novamente."
+	"Steam_SteamErrorTitle"				"Erro"
+	"Steam_MediaAdded_Title"					"Sucesso"
+	"Steam_MediaAdded_Info"					"{s:media} foi adicionado Ã  sua biblioteca de mÃ­dias do Steam."
+	"SteamUI_OfflineMode_Title" "Modo offline"
+	"Steam_CannotInstallInOfflineMode"		"O Steam deve estar no modo online para instalar jogos."
+	"SteamUI_DownloadsDisabled_Title" "Downloads desativados"
+	"Steam_CannotInstallDownloadsDisabled"	"Os jogos nÃ£o podem ser instalados quando os downloads estiverem desativados."
+	"Steam_RegionRestricted_Title"			"Jogo indisponÃ­vel"
+	"Steam_RegionRestrictedPurchase_Info"				"Este jogo foi ativado com um cÃ³digo de produto que Ã© vÃ¡lido apenas em uma regiÃ£o geogrÃ¡fica especÃ­fica. JÃ¡ que vocÃª atualmente nÃ£o estÃ¡ nessa regiÃ£o, {s:gamename} nÃ£o estÃ¡ disponÃ­vel para ser jogado."
+	"Steam_CannotInstallApp_Title"	"Erro"
+	"Steam_CannotInstallApp_Info"	"Falha ao instalar {s:gamename} ({s:error})."
+	"Steam_ErrorNotEnoughDiskSpace_Title"		"Erro"
+	"Steam_ErrorNotEnoughDiskSpace"			"VocÃª nÃ£o tem espaÃ§o em disco suficiente para instalar este jogo. Libere espaÃ§o em disco e tente novamente."
+	"Steam_ErrorNotEnoughDiskSpace_Manage"			"GERENCIAR ESPAÃ‡O EM DISCO"
+	"Steam_InstallAborted_Title"	"Erro"
+	"Steam_InstallAborted_InfoAppNoInfo" "Este jogo nÃ£o pode ser instalado."
+	"Steam_InstallAborted_InfoAppUnreleased"	"{s:game} ainda nÃ£o pode ser instalado porque ainda nÃ£o foi lanÃ§ado."
+	"Steam_InstallAborted_InfoAppNoDemo"		"{s:game} nÃ£o pode ser instalado porque Ã© uma demonstraÃ§Ã£o e vocÃª possui a versÃ£o completa do produto. Instale a versÃ£o completa do jogo."
+
+	"Steam_NoContentServers_Info"		"Nenhum servidor de conteÃºdo Steam estÃ¡ configurado no momento para entregar conteÃºdo deste jogo.\nIsto serÃ¡ corrigido em breve. Tente novamente em alguns minutos."
+	"Steam_App_Install_Failed_Title"	"Erro"
+	"Steam_App_Install_Failed_Text"	"Ocorreu um erro durante a instalaÃ§Ã£o de {s:game} ({s:reason})"
+	"Steam_App_Update_Failed_Title"	"Erro"
+	"Steam_App_Update_Failed_Text"	"Ocorreu um erro durante a atualizaÃ§Ã£o de {s:game} ({s:reason})."
+	"Steam_App_LegacyKey_Denied_Title" "Steam â€” Aviso"
+	"Steam_App_LegacyKey_Denied_Text" "O conteÃºdo de \"{s:game}\" poderÃ¡ nÃ£o estar disponÃ­vel, parcial ou totalmente, sem conectar-se a um serviÃ§o de terceiros.\nO titular original deverÃ¡ ter se registrado no mesmo para acessÃ¡-lo."
+	"SteamUI_JoinDialog_DataRequestFailed_Title" "Erro"
+	"SteamUI_JoinDialog_DataRequestFailed_Text" "Os servidores Steam estÃ£o muito ocupados para processar o seu pedido de {s:game}. CÃ³digo de erro ({d:error})."
+	"SteamUI_JoinDialog_KeyRequestFailed_Title" "Erro"
+	"SteamUI_JoinDialog_KeyRequestFailed_Text" "Falha ao contatar o servidor de cÃ³digos"
+	"SteamUI_JoinDialog_KeyRequestPending_Text" "SolicitaÃ§Ã£o de cÃ³digo pendente"
+	"SteamUI_JoinDialog_ContinueLaunch" 	"Continuar"
+	"Steam_NoLongerOwnsGame_Title"	"Erro"
+	"Steam_NoLongerOwnsGame_Info"		"{s:game} nÃ£o estÃ¡ mais disponÃ­vel gratuitamente."
+	"Steam_UnknownErrorLaunchingMedia"		"Erro desconhecido ao iniciar mÃ­dia."
+	"SteamUI_JoinDialog_ErrorTitle" 	"Erro"
+	"SteamUI_CantRunMediaDueToMediaPlayerVersion"   "NÃ£o Ã© possÃ­vel iniciar {s:game} porque a versÃ£o do Windows Media Player Ã© [{s:detectedVersion}], mas a versÃ£o [{s:requiredVersion}] Ã© necessÃ¡ria para reproduzir a mÃ­dia.\nInstale a Ãºltima versÃ£o do Windows Media Player."
+	"SteamUI_CantRunMediaDueToMediaPlayerNotInstalled"   "NÃ£o foi possÃ­vel iniciar {s:game} porque o Windows Media Player nÃ£o estÃ¡ instalado.\nInstale a Ãºltima versÃ£o do Windows Media Player no site"
+	"SteamUI_CantRunMediaDueToMediaPlayerNotInstalledOSX"   "NÃ£o Ã© possÃ­vel iniciar {s:game} porque os Componentes do Windows Media para QuickTime nÃ£o estÃ£o instalados.\nInstale a Ãºltima versÃ£o dos Componentes do Windows Media para QuickTime."
+	"Steam_ErrorCantStartGame" "Jogo atualmente indisponÃ­vel.\nTente novamente mais tarde."
+	"Steam_ErrorCantStartGameDetailed" "Falha ao iniciar o jogo ({s:error})."
+	"Steam_ErrorCantStartGameDependency" "Falha ao iniciar jogo com conteÃºdo compartilhado. Atualize os seguintes jogos primeiro:\n\n {s:dependencies}"
+	"Steam_ErrorCantStartGameLink" "Ajuda"
+	"Steam_ContentServersBusy_Title"	"Erro"
+	"Steam_ContentServersBusy_Info"		"Os servidores Steam estÃ£o muito ocupados para processar o seu pedido.\nTente novamente em alguns minutos."
+	"SteamUI_JoinDialog_PreparingToPlay1" 	"Preparando para iniciar {s:game}."
+	"SteamUI_JoinDialog_PreparingToPlay2" 	"Preparando para iniciar {s:game}.."
+	"SteamUI_JoinDialog_PreparingToPlay3" 	"Preparando para iniciar {s:game}..."
+	"JoinDialog_UpdateAvailable_Title"				"AtualizaÃ§Ã£o disponÃ­vel"
+	"JoinDialog_UpdateAvailable_Text"					"HÃ¡ uma atualizaÃ§Ã£o disponÃ­vel para {s:game}. Deseja iniciÃ¡-lo agora ou atualizÃ¡-lo primeiro?"
+	"JoinDialog_UpdateAvailable_LaunchNow"					"Iniciar agora"
+	"JoinDialog_UpdateAvailable_WaitForUpdate"			"Atualizar"
+	"Steam_LaunchShortcutFailed_Title"	"Falha ao iniciar atalho"
+	"Steam_LaunchShortcutFailed_Info"		"Falha ao iniciar {s:game}."
+	"Steam_ErrorCantStartVRGame"	"Falha ao iniciar {s:game} em realidade virtual. (Erro: {s:error})"
+	"Steam_WaitingForVRAppQuit"		"Esperando o encerramento de aplicativo de realidade virtual..."
+	"SteamUI_LicenseExpired_Title"	"LicenÃ§a expirada"
+	"SteamUI_LicenseExpired_Body"		"A sua licenÃ§a de {s:game} expirou."
+	"Steam_AppUpdateError_0"		"nenhum erro"
+	"Steam_AppUpdateError_1"		"erro desconhecido"
+	"Steam_AppUpdateError_2"		"atualizaÃ§Ã£o pausada"
+	"Steam_AppUpdateError_3"		"atualizaÃ§Ã£o cancelada"
+	"Steam_AppUpdateError_4"		"atualizaÃ§Ã£o suspensa"
+	"Steam_AppUpdateError_5"		"nenhuma licenÃ§a"
+	"Steam_AppUpdateError_6"		"sem conexÃ£o Ã  internet"
+	"Steam_AppUpdateError_7"		"conexÃ£o expirou"
+	"Steam_AppUpdateError_8"		"conteÃºdo ainda criptografado"
+	"Steam_AppUpdateError_9"		"configuraÃ§Ã£o do aplicativo ausente"
+	"Steam_AppUpdateError_10"		"erro de leitura de disco"
+	"Steam_AppUpdateError_11"		"erro de gravaÃ§Ã£o em disco"
+	"Steam_AppUpdateError_12"		"sem espaÃ§o em disco suficiente"
+	"Steam_AppUpdateError_13"		"arquivos de conteÃºdo corrompidos"
+	"Steam_AppUpdateError_14"		"esperando por disco de instalaÃ§Ã£o"
+	"Steam_AppUpdateError_15"		"caminho de instalaÃ§Ã£o invÃ¡lido"
+	"Steam_AppUpdateError_16"		"aplicativo jÃ¡ aberto"
+	"Steam_AppUpdateError_17"		"conteÃºdo compartilhado ausente"
+	"Steam_AppUpdateError_18"		"nÃ£o instalado"
+	"Steam_AppUpdateError_19"		"atualizaÃ§Ã£o necessÃ¡ria"
+	"Steam_AppUpdateError_20"		"ocupado"
+	"Steam_AppUpdateError_21"		"servidores de conteÃºdo inalcanÃ§Ã¡veis"
+	"Steam_AppUpdateError_22"		"configuraÃ§Ã£o de aplicativo invÃ¡lida"
+	"Steam_AppUpdateError_23"		"configuraÃ§Ã£o de depÃ³sito invÃ¡lido"
+	"Steam_AppUpdateError_24"		"manifesto de conteÃºdo ausente"
+	"Steam_AppUpdateError_25"		"aplicativo ainda nÃ£o lanÃ§ado"
+	"Steam_AppUpdateError_26"		"restrito a certas regiÃµes"
+	"Steam_AppUpdateError_27"		"cache de conteÃºdo corrompido"
+	"Steam_AppUpdateError_28"		"executÃ¡vel ausente"
+	"Steam_AppUpdateError_29"		"plataforma invÃ¡lida"
+	"Steam_AppUpdateError_30"		"sistema de arquivos incompatÃ­vel"
+	"Steam_AppUpdateError_31"		"arquivos de atualizaÃ§Ã£o corrompidos"
+	"Steam_AppUpdateError_32"		"downloads desativados"
+	"Steam_AppUpdateError_33"		"biblioteca compartilhada indisponÃ­vel"
+	"Steam_AppUpdateError_34"		"licenÃ§a pendente"
+	"Steam_AppUpdateError_35"		"aberto em outra sessÃ£o"
+	"Steam_AppUpdateError_36"		"download corrompido"
+	"Steam_AppUpdateError_44"		"sem licenÃ§as disponÃ­veis"
+	"Steam_AppUpdateError_45"		"bloqueado por conÃÈZhTDà‡¼ *£üÔYv;·Ãà{åòZm€KŠãÈFdAoËÍUkÚİZ].Z–É9~÷Ñ‚ˆ‡zeª„Œ‡tçª‘¢1!ÄW¹piLa¾Ê„Øğp¼è"ÌH*ğD†Ï¢zUŒÎdš7„[9™Rï³ºêmø¯o|^?vªk7ëşôÏ·Ş´*V¸p/*üÓ8ÆÜ7˜yâ†•šı’·j}Ş¡.â@·Sò>DT3r=Í)áuéŠ5>™r‰\ŸIûÈ@¡OÇNàVxZ–¢ø¾|)£ºÔ0Ëúô*(G­emı\»,ë×çI?—[ÿù:˜ÓÎ"€v‹*ß˜­zmçYAûIªòƒR>–Ùd*VC!Øhà˜è¬œÉ˜„jó–¢8°lAÓD®:¤ú~Á6MÍ‰’ ¶@Û´B*t+Ğ^Œî¸O YÂ~ä5K7
+Æ8Â|Éh“„ u’¿eÊîRE†%ÃÌ…¤E€»èÚ#$†b+’ÀM0D%^%iø`Æ½Ííh×Ş›şdûaq±¶ı]ço­£áQX¹JXÚ®èâ™‡$5Wq)–ìª{9YòêÉsow1¹KûñÈ¡hÅ„êt¢ØRÑ*€¢|"HôÒ`BRŒ/UO#DçÉ>Ğ“ÄŸú2}ß¨|äµ•ï—ßO×ûy¤ÿÛg/Ğ
+4x¢ÜxÀ÷yV sof Êä*nŒæ„BƒøÎ BBb•¼ 2-V)’5@­Gş‘ÍÇ¸¤R€
+£Ä X ëc+Â§9è²ğa+Ìa!®İp^­¡InQ{*ÆqŸøŸ21ğ,¢ÖdPS©Xuëöñ]MÔg)BBHÜÎ@äƒı$Jª,DÖOy²¢7Mz%ŠF!oFï–¿øòÒíÉş°ÚÅZs‰²´~¡ÑX§)oÇòF{náhìü½SÈ&ÀLj"|š(_ôdVN1ø=Æ´ËXøäÚ•}_Àg1œğü³ÀÏ}7—¡Ò÷3¾ÏZ/ÎûÒ¯ÓXÍçhŸXA^+Ğ¾ÌL¬ï9$ÈLÅ2I38Fù¦%ğ’¤²IÏÏV»A™1õ§MÙ©š²Q…`ß–™³HG‚y¡“x^ba£!“)/7†€ªÊg€O˜%5’^A5Á„ÈQQtk²]°’X([ÌuRb²P¢)AH†!IÕój("‡ÓÆ‹«_OÀPCÜ„ı°·í£xk´_xqåeëñşk³x_\¿5~Zx?ÛIØß$F ê-/¯#¶ûÓà= T†&â¶ ¸Yõòê‰ä×K¶T`: _CÀW´ìÉ¨u¢ÄzD‘3u/¾ú ıg€?oğÑ=şÓBè·fCœ#§©@¶÷Û ‡>ºáÛ9„ùÌWYZë§Ó"–—ßI[Ñúë³6ådæ«I "¸6ĞJ·…¦»)e‡$ƒª6”KM?S
+-ó2Ê¼‹ğğ¿R)\|BnbÒ—1>õ°•˜¬}¢b5²¬#¦Õ§ \öF¹—ÔkxÃ‰ãWVËÑá>!#¥ÖÈ-ìQKŒÖ(˜z•éWj4üF«µ»Ô÷vJÍkX%Ë¯$ûË;vğˆÚ¤»“Ğ]Ú.Œ÷ËÓ.q­â%„gTkn££İ‰G°{xB>x‚:ñÛÛ–!ùJäœ¥rê§˜>œ>„}§ÔP‘†Œó€,ô½ó½“·ğçaõÍo®Ë(€~G#›²tKğÜ~]–	…:Î;ä5é£§(C‘~€­6\3˜’%ĞpOa¿ä‚KÈ¨–ªT6#^)¶€/ù úãPF]†1÷Á‚LlÒ4~Cxx`¥„(¬J+NÂ”l@„†°nÀã¸ë…"Ét±×İæ«Ó°º‹2M¾²W¢ÅV¶r›ßÁ 
+ƒ0©7M²äpuiy?ê<§3µoõ–~§ş†w½ú)û)^ÉNï`ÔX}:¬†ä[!#/Ì;(5…@ñz­z“Ã§UŸyõ4Ç _½§™ÑóŸøœHüóB·´ş–_¿¯/g†¾öæ)€Ù>sªvü[&niîˆ —ıËºvÃP‚{»}û˜O‘(¯¯FêLø.<Šw¸²) |!z˜cÔ€‘®*;CJeÔ”¡\S
+ 2¬Ô±¤¾ˆheƒfBqÁU‰¤E'DA§°Ÿc0|5Q"]mê`ÿìQ7X×HÕ"hwîLÈş¥ä¼—¨:ŠA
+sôûŠRî /€.íÒ¡Óqo+Òè€ºTÓĞ¦‚pm““w8nLüêhBŞ«[:Àå˜V½ä¡ı$C€×µz&‘|¬{©%‹`y!ríNÊÜüÇÊg=°Ô›«}©{~÷!7aÜâ>ÂSC|ÿOgï|ê€ÙHç‚¯ó £g©€ö>/pê½ƒ‘}(éQ¶eœañXúÒ‰9Ët²jh” ¼`Ø‚6"@9ˆMW²n/
+Â¶Á¨•B^Xj8A·1*V¶
+´%Ã\ÑdVŒ»Ÿ†O8ê¤P nÈÖÀ¬±6q3¥€o‚€íí¸\!åV…ÅL%e4ñĞB=® 4ş.	Êuà8ğAfC±2Àë\Cî…øÒí5Äë5æI¾"z¸½BºÕ	‡oÎ] Ûn.¥jß'|=Â<Ğ>³HpP( 4ùßæ|ÙPÍ­Å%{í ï¯	*ULR’>ñ»R¥!äXÒšBÿND­ÙôÅp&•Áú  ÊİK|MÍ§rÒ!± c…­Úô’ï¶·—ÜÕõ«tßÚa‰à²DJDÃÂ2:À®d•Ê%òç¨Ø9¢Pù<Hÿ,u^ä uPmZè1 ¯–«p~„ÎB‚­Ş8º­ß4”Gˆ!àh\~’Öc¢¢Õ;OÒ}YÈ#¾Ô;­x±5­zlRŠã3I2íŠäó!~ÏrgÕFÈûk\#BıZD´ÿ COï+Ÿ{<CèKÏÜ5ısĞ‘³]4/jhûÕo°J§Ö ©ÿıŞáĞ["àI,¹iNSÈ»®H»„DE³Ò&VÓñ÷qö£Çõ’vÜv¯Øv»¸Ş²ÿÀ‰ë;»;î?Øî'©¸ÓÀ‘€ Y·Z¹Ô*‰|â±Q”‚U¢+÷ˆ7¾Dàñ:¿mFÃúˆRÊ•­t³Âõ,š>n Ò‰„Ä‹¢iµËó¬Pm%x¤É¹Ï>C­ä(S`g^ĞcÕË©“’|ñ!N™ÙöÅF•ÌyœÏ—WõÎ#ûşÅBŸnıÜ “/F‚?á˜&"?.@‚¼† ÓéŠfäˆ©u¬%ˆô›,Ä—æ	N!f5|>ÅB­ş{Í~÷9kì†ÿ¹e«ğVÜFÓº½°ğÙ‡ûÉÛtS6¦g”(–¾G
+×ô‰™œVTdgµ„™}jh252`Y•ä‚@ª yUäÊ€~Ìßu~&Ùëû<à±†È¡°„ÉXA*å‹Ê`\›Y÷N™wµò?
+øz¾ÿxÀzŒÙ8|í¿ˆd]ŒçQMZ^E¼ñ[ÄØAÆx{{‡3¹@/—©Š²&Uwô‹R59@ÎNÎyÇˆ  JXT	c”j	œª]ZX¶Âv›¾¼øG"ÑE‹ø•|’”šfß	ßSİXn‰‘†hŠô,ñïl hØú\ß/ºŠÔk.f+^Ô„¾ÁÜ;}7‘{=¡M-¦¬@w¶êu¹á÷+3aoÀƒ<ø‡“çšWõtÁÇXùºLã£ÀœcÎ<ïÏó Am5ò†A¤¬õıƒ”%èv©€˜Ò×3lA“…tLlT­b¦18‹×x÷‘1«?’:eÃŸ³¡˜ÓãÊ³Y/=ÙÄ»1X™5ãÄÍ®“°(]Cä<Û¯ÏcÒíÌ¯tíËV»¾Ï${Åéğ
+ùŸşr¯ÌİLĞ3$Ÿ˜‹*ÂŸ %<L¿ëï'|İòyÀœ§?ç‹à!«µ›»b&j0SuT/©‹Z!bZÇòÁtıöXK9ª ë± bD6|X÷3Cê¤š:äBû¥Zêÿ³†V¶şŸ¶R³¥¾åGèÙj‡zÉddˆ9À‹ÊåÉ}¦Şé–²é«xó$_=P•ùgÿ5V¾~SãyÀœk®8ïÏyH óÓÿ@d}6.¿†	l!İà%3ë¡vÀ)[eÎ!‚ÛøU0È€|§Ïc¡ó4f›¢’%œ}bCÀÖæ“èBK¢eN€Î	R´âùš¼Ş-OîõÇV=İWÑW›?;¡>7ø]ŞæÇ' |İòWA sşüsoÿ1€¦Î=h^.ĞñŒğu§Ú›´Ë5“Ç¶&$¦İ92‚¢¤BQ3@4ƒÈ ğê  ÉV©‰³3ÍÇì6ù]ç~Ï9;AÀ–ÎÏ={oB@Çˆ”“£]UçHy|zÎ<à•…Mğf
+ìùU¯œGòµ_”õ¿ÌRÛgÇ	=vjÏ¯Š ºødEŸº¯óÿË?dÿfîY7nuQla§7¶ÕÎ<r,ñŸ‹p&ÍIÙŠ28 íÁ¼ê!fÔA¿"¤aOû ù”œOfşÅÏÏq•WM+&JæL!‰yÀ¬pİäÔ*Ÿ!‚‘æ95{¶Ì#Ä0u)Á›/¥k­ÕÉà‘EO€xïÄª§¹Ìÿ… ü}öG']8øºÃÇA sİ…?¯ç©‰Ú5[XZ†‰§“q"(áTr‚A“ª¤cUd+›t£!Ì$wsz¤€T<F¦çŸ>~²¥Úºôˆší8ÿ>Æ…¤üÛœ]/˜>£ø»‚6	xe_åÉ½~õ¢U¯Gy¶š§«%àë‚‹ æZı¹pœg:ÎN·hÿ"ÌŒHÙebyªîgªdÖ=ƒ:I;§f¨é]Nş¦Èbè„ÑM9"µ‘¿÷iò®£gW»öê™1GY²àoñ'ŠŒ.=Ï¶ëgç¿a¶ãy>Ğı³¥rşo}İßàœyé5;{-h´‰”¡KîF¶š´[+Ê „Ğgºòt$p)´WÀûUF{]slmÍ„ßÑ
+‡ÄŸZéæ­á»ÖÍL—×N‘úó ÿ,r/‚ò× Æwuƒg|İñ×E sg>š^$ ê˜^ò $ÉËÚŸ—´­AÆĞ½ÎYdĞ!!„Æ	…ĞV,}ÏÆsR€ìtó™^“ñsíÊ#£¶õûèd‘§­?´—q×~~	à^´8>ZĞÓ]4>6ğuñ' ºÆ³©Î¸H6Ğ1!‚¤´ÌÅ¬}ÙXENXDN0f;™ØO¤AhÌdvÖ1bh[È‘íÖ§Vuvü£îk$y•_yÏ†Ê¼´áï³œÙnó)R/)ó"ÀëÎ,I   pIDAT6Íëu«ãgÔÆÇŸ$è>z‚_ç¬¯>ƒ-è.B†yÕQû5„k3¡1İ“ş!$7ô©ş%mBã"à¥<ÿßŒºHzW«5Ói-pİJ+]¥÷Ïº_$Üé˜†Şù{ õ;fë£ş|"À×ü`“¯w¸^Ò    IEND®B`‚‰PNG
+
+   IHDR   €   €   Ã>aË    IDATx¼½y¬fç}ß÷œı¼ëİæÎJ‡‹(.¢,KVlÇ‹*‰ÖhmÄ¨¤MÒ?Z´h
+´.Ğ¦[ 6@‹ü‘mŠŠÂHQ¸qP§AQ F#ËkmÉ¶$‹¢DRÎ9Û»¿ëÙO?ßç¼ç½ï½¼CR²ÛCŞyß÷¬ÏóÛ·çwóg´ÕÍ}œ½İç9ãsÆ1ÕœérìuÎ9o»øIÇ\º`LU>êzfšf’Îı£¹=V:Şés¾Ï_^İ<ëêzÇô#¿î…ş¹Ï7;{Æ<úÆgöŠ©?tÎ¿Å9_<sİù?ëósşÉ´÷O}Ÿ•Ù~ø½şsú8œéÂÛwÏA¼¾	Ò½¤ƒğ£Ä¹?ş`d·Èü¤øğ1r^ûËi=ˆÚû^tÌ¥õä®Œ­d’!†ç@r‡‡<t›¿Ã9¾ı™ÁGÈãÆ²å‡ßã—@êğ1wâ÷9~ÿÌñáSÆ<õ,’â4`oMœQ’›³ˆi"$ó·¸ÙyÔ¶r¿3l~>şcIç=æÙõ~}–PÍ›µİ9ı´«üÜú ©0âøßÿpB ø…XN?{å×‡#oåäÕ¯	ù¯rÅk ÷qÔ~xâ¯Âí[+"N¿¹û~¤ánQY®Ö'âa1¼Áş Bèµ„`L¾8úQ?‚•‹)ˆ·Ráä9•ïZ‚Ğç*Ahl–¶!†–€™‡ÙG*Ü?£"DA¢˜ã78ö›+ƒ9ÿë÷-¾/øHÈÿwAîÖù£5)ûÏŠúUÄ/ôùÛ;cç,`O8ü«È¢—ÈËƒ6í\òÉG” º²½QØ\½zï¢8G+!ÎùùKƒ»áq„ Õi°çlûìû'38çíú¾ˆà{&€„üÇéúóŒ»3ˆß£×1âZ ¶œN2Æ*`ÃùQeÂınpkñ$dgÚ£í,’$¹Ymçqâ¨¹²®]S…-XÎ¿	9¢X%ˆì0¬«TlÆ˜õù½"4‘—{áq„ğ8cQCùpÛà{&‚v¦Íì?äßEşç¹ÁO,¸îì½ÎŠûU0ÎCü*·»Qn‘¾º ’ğ,;¨¢
+ÏĞÚ¼¬tÊÅ€ÃAÈ\ìÄŸ½
+;41µl4mÙB­x@©½æIò,üÅót\Œ_Û±5Ä ²,¥"¬šX%è÷ÂYáƒÔÂïğ¬/jtİ¾'"øÈğ¡Èœ¡w×¿òÚÒ¸ÛåÖ’_PŒußrÒªx·xœä'ğòÒ"[„ài?Hyÿvb¼ÿØêİãì–°£à)Üƒ'ZÄ‹(Ê€ï+ãÁÂ·Ä ËO«‰Ò$x«ó´Ä0h@+‰ğúo,À¬«Ù'>Ü@üÈDğ‘àC‘ÿ_ğó$ë”IÜ¶<bçc$î76šïLøkï.u¼8wññåÄi9
+÷Ğ1åé.‡[nG¯"»Er±òÜæ‰º}‘Û*qˆ(Bª%†UéàPˆ¡CòÑ/ÂXÎÂ>¹qb,6oğÜ|fcıíÅ˜ÎZüüHDğ¡ğ}!_ƒ»D©íÖr=ˆ¿ùhâfÅ‰Òï®uÑ!‚ñÂwËí-ÒSj‰Ü¤ág‘í!~½À1ái«JÎ‚uÚ1ó‰Ú6ú;µeX­e^ówj7ÄP/	¢%É¡ˆY-‰aA|H)´„PáTÈN°ç±#tÍ³^ÃYi ú)u–Éşˆà	àûFşj¯ÿƒ¿aŸ3Mjóöş‰eÍÓ¥ÏneNT&8ƒø +°Û*ãIïö\}éa÷²˜Ÿ!
+¯(íœª6.÷;o«\×Ôn’Òot~{^d£ÎO6E6[€ˆİ«Ä0A*@´5÷ËC0mm†Bğr×dû¡½V6BÚ‰ìw1Ãó[xñ-wn×frçä™ç©„?%,tòŒöÛbf=nÎûÌ*òoü¨cz˜Ìâz|ùÃô„ëqÜğ×küukÉO„`Q€gÂivZÄëÒÖ­Ó W>fËÙB4:O‚jQ$Ë½İÂ!µ¿ÛÏlE¤.<ŠœyxÚ 
+ıÙ;JJî¡9KÚ¯KZ©€4ÈzBx37Ùªg%¾°ª6"¤AC˜2Û¿ßÎâ|»@Ïú uÀN®×DV¶s¼8ûÜcöÚóÜ¼³¾ıŠÈ_Õõñü”¸·÷“5o‘æ™`F §BÔ¶b~•ÛÏAz‹ğ%²…hûIİj«È>Ÿé›sÎû·Á9Ä» pWò|´DÑÄc‰¡•
+B(ÜÀä]”¸ÄÄ-¨WÕÂ|Ğ±û$–¶ÁY•ğ×Önm}€›ø8"8ÉŒàÜıNçqşc?-ù‹`&ÔrıûÄ=H
+_<ñ!õL+Ú[¤ã±Ù2¶šñ
+ÙBT;úÖ#`—¯Ím}CûëıÿTòùØZİÜZşv§P£çµD1Ü¶bGKKU!£u>²È\ª‡–|Á—jà^2¹çªZh¥U	
+"ùŒé£Á÷!	ZPÙùéŸfÄK.÷Û/†|éû§›øıÎ4wŞ;nähãÃÛ@D‘gïµ÷né;K¿*êˆoE¼=P×¨²µ„t]£É/D;Äd8‘ı?SË>Ò×|“Sáx./EG¨l-G	
+<öË9Çƒlè9QZÖ^Uƒ´æj©Šö™-1 ÷%¿½¿”
+«„Ğª†…Pt‚ºòt#( µ ›7Ò m‡˜V1š'×Bs©Ç¬E·È+´vÁy’àƒ‰à}Á)°#8áŸf²í¿ç…vW9_'oØûİÜŸ/õ}cè1öE Çr¨¬ûU®__œT¶â¿Ã/Ao"pBxƒô‡ûUaÜ¼²×ZNL	úeµg\1ß×5J96®³ =k±Uœ;OçnÇízA‘möfQ?ŸífføÓÜ<H×Êªy)ªÀ­—,b– E"è^R!‹CoC¢^„@†0N+'¹782uqFˆÚ@R1ØˆÖ.ØjÔƒyïöIré<"øàĞñ)"XÀŸ	òeì-\<!¢uïÂ­ycá/ıyŒ<$Â’ëeÜYF I¾Órüññ âi"Ø-ÒWnj(Ä'k‘]˜²ecı·ˆ¶Ÿw‹-)ìÎÓ™Õá… |¥ˆL×îTóxæ\é\~äúÇ÷~£û«YğzŠ4i‰M¬¡'U±$bìC7¢‘Ë%¼:¸xÉ5G3ÔA5ªÊ[+œlÒ@¯	ºˆû4vëF%t'3‡…»xÊUüSC\ {…ÛK ŸgBgÃ»«–óA~kì	)­¾?+ò=Ô|˜Ç?ËõıkÉùõB°ÕíB¼\:‰6D¼ïeåTD 	¹9–ÃÃ¾#®N°#„t»5Òbà—v5<·$x”Rh†êàööw‡İØ?º_>]Şî&ùÎÛEÌüOí^ÍLMàÌót3É.=œãK3ËLéVpTY»DkÏmÔRÀsB§Ä“¸OúEÖóìfn¶6‰$¦¦ÓAL›.Aƒ4È"ÈËJ}&}F%¬ÚKãp•n0Ë³£ßaßpœùw),@‹|]uVï«®ŞËŸ9ùgE>¿-b–½Ä½|ô ËWzQ\¿‚ø0ÇN(¹ˆC–ZƒU=é¦E´Z“"÷åëk¬ÚÒØI@I%ƒYUJ—ê˜[šh†ÑÔ{~}Ãÿd÷ÜĞw²?¸ó»¦sy+ËwaÅYìu®×NÇì\¸cºß.¹G‡÷ß"úç<rÖ²ş¸ªËqÊÂÔ}K,ÉàÏÏ«¸Ó÷³ü™»nRºf}½Jb§´j¡u}%B=«>
+¼ñ[ôqıÙ8Æòx÷Ğó§BşÂÕûÚ½‘é>óaŞU‘ßêú®_Š{w+¢¾E<A8§Fœúp{‰mE»E"ç[ ‡lŸãä•†ÜxM4«ŠÑ¸Øß¼_ß¼hÓÜn¸ÓÃ#?K«~–n×ñ…Õü^ í·gÏU÷Ì»fèì—ußTi7œ´ëF³M7®*ïÕ?hÖüaú¿<ü§‰wq/Nül—$d´‘L;ö;>'FN]ß#2ÁXM14îş¨ª†C7*¶ƒqpkšGUA9€û]U°*N©øADpmØ†«9„ïàœúñpÑ÷Àn·ò[ƒï}È—È£1¨…\¯ÏwQù
+ò%îK\EËõ!++^\/Q
+põŒ'Óa_ìdeÚˆx§‘èÜÖ ä'÷wzc§Û™.ÿTÍÕ¢NË·ypÉìRÿúàR±?.óÄı†ñâÈq²4©#¿ËÀF…ëúİÊqGÁæÖ§Ê»^¯ÖÈºèæt5y£şbú‹î5ÿéäWŞûU³³qlÂ%~²,4³*{Ñ9¬ß»oŠ r1ş1" (EY’ÁYsÌÌÔóşQaÒÂ„Ã'Ülzˆ.Ëêp-,İùQ¤¹“¯EĞ•cdU'¬¥¡ª!hBh%weã¸u«–†¡$Ú*¼l• Òl7
+kï+v@{¾y•o/Y/wÙØ~ãÕ!jšlŞÍ=¬}búßòeõÖ‰|—Î°È§o¥‘øØ!Àá„YæÔØUå:^´îJÓf. <B¾$DßK{7AL2¹YÇŞ'?ìw`û§êw¾sXÆÅÈ›¢&¼`İéQuÓëÊ²ÀG‡Œ"¬ãyTw.ô2/ÜCÍ_«S³®›û/n¼P½;:È<7ïùÅä›ûo˜ïî?¶şçÌA>­#±Aœ¾¡·™WÅD®µ‚Üô×üØ)¶\w¶ëU9HìÅŒÓªaş ç”#bã²[’ÒÉœÈ©}æ°Ÿ`Hlb…~²Ûw«A?Zçé/8eú^åms:(î?á¦Õ¸æ2<—ÒÙì@ —q¿İjğ%c{ıuÜÌ˜ß\ù}òÕ9Ÿ ş5n t´›Œ¾GìÓöá]hyŞ5Eñ$µúÛ|€ä}œ¯{¥\/}w-ò­T.‘¯c >0…e) t0º^à;óbÒ…h¡Lˆ¡ÀíŠærÈ¸fTÆ›ypÁÉ‹aĞ3åİéÓñ·½"¹}ïewÃ¹4X|•¦ßÿ'L7½” ^è\2[Á³Ş|÷ÿá†ù—xÂÜÂ³?="	1‹İÁU3(×¼¸ÛÿúÖÏ˜n<¨¾¹{Û¤™ıâÇ~*ù“ù7¦œwäZø~êdşCDL?r§ë_BéW£ÄwË¨<®‹.£É”h•0æåµ³½¼Ö^{ÙKÜyãáFƒôf÷÷†şèöÚ¬>¸UW‰Dîj¿¨ŒT“ \Ö:	%Ë×®:æà®Bæ0r›ÛM†üo·?N>ßO ı«Ö¤Àı6û´ÉâßÜ²Fß÷ï¼	íV')ç‚!ØAìsŠäÈ·/àşcmõ½½.ûÅÍ|¶\_bà…ñĞ™#îƒoaXQ«Ï,â]¸İ'æ_•ëá@)ÎÚÈ»lŠd`?É³ähŞíİF<%^¯ó¤ÿRô‰êQò–[=Ï7ª8ßÊ§Õ]¯3¼hÒ~qûø_ë@qİlÄkîxvl^ğöUó2ÚŒİbÏ3İ0tzGÁÏê3n_#H»ş¯Îÿñıÿó ;xeŠ(<¬ë¾‹J‹İ8ß÷Âl£ã=}i+¹s8*·°2&wÊ:¨ëp.
+·Ú«ö™#"Áz)l¿î­o½°?ñßÊ’wŞ9*Š¯Wƒâøƒç]ìöLø¨ò»ág‘;Y5.Áá$q®¬ÃæŠl)6“Ë tÌe¾/Œ<½WØ÷ö­lêéílß-.j7Ué"¾ZwO>¥qÚµ§(º‡şju>¶ø	òñ—¥ó-ò; V±~(ßK˜=×Ü	1/ˆª¨Ãå¿”?	¿1í]›Ìb œPµƒ…ê¤8Í$Ö6K"ÿ (§Ø³çŒûîvŞ›Mƒwr?¹cÊjb’p
+wÌ“2ùnîøû&ó÷,#“¦wÍ´Ü‡3=Ó/»åfxÁ›<ô¼ƒ‹ş«ágüÏl?S}ó½»Æëö«›ÇÜÍŞ:AG$7Ó“º:Ÿ(˜;¥×÷ÌÖN•Ş»ù½Íôı`;[ ÿ_!gâ.p?lQèõæ°ãdoMïüßùúı²¼°Qz2»=½ız9-ş¯y2|ÍªßœšÍ°ŒİÄì…Å"„)ÚmwÚw·ì:-äòµ£VEÿRïÏœã’ŞF©ãF¥¡úÖ! Ñ _È”Á÷AÈ'»øû’Qna¢u¨:¡@S"_ÆŒ<D¿ á)ÒÅûïÂÿ‹ Ì1Í8ÃA8İi¸í9~XLGYÇßè×É|‚áç¯ûázì¤_)ª£*Š]“¤Ûõı°ºàå¸wq!Îåñ3²r-XóºáÏoıˆÿÃÏú¿ğéÏpT|i÷mÿãƒËåÑ$«ïí‡/m?[üîÎ—«£Ş^’–Ç A¡/¯Ê`=ÙM˜V‘Ws7Ë69„mPBÉU^;~Ü7^*—n¡lAQÃpïØ-	`¹eY§XL¡„˜HaiÏÄb°icYï[¢Á®0î	“¥„æ‘§ìóTÁk@ìKBn³	MÍö*Òßí¦#·9Y›*y(oV>_)İU£ÏQq¦µì™¾¬ıäkÀ­Ø?ËùB>“!ÒíÖä ğ¡åú2À×gü‰ë9O’#ÉuQ&âøOu:«QÏâúÄ	êÉfxuğD=İ‡}oÛèÂ¨Û›ïßË{U‘÷½”üû¸êm÷‚íêùàåà³)ofe,DÄ–Hí<5¸^şñá“áÊM²üŸ|çMìĞ({}üÈ#ŒàG¥o~ì¯½ä~îÚOú…Yƒü™CäõĞí6<¿*Ã(¼ÖÏÃ^…4q‚  t#ÑŸÏùÍœ5wÁ CºTq‡tŒ'‰›fdğSºÏ¦‚­`®_ÇJñ{@­ ›p"ÜG¶]8Ó&`¹Áñ«öˆıçäŒ„ÕíÎÊo•q!úUÌ¡SV;¶€«7˜ÕN¡Â•g‰ Ğ÷êÓb¿E~	²Š—U‘ÏùùB:¬-äÂõVÜ‹ë¦õ€íâá´‚ïy• ,BEñNr|ø-Ï¯gÇ°bÔÛ*Ííé±ù-/ñÎÊ¤—ìœşíU_LîWÛ¯ÌÚÅ­¬ğ‰î¹¶Á½ñïìşzõ'Å{føÄFñ¯ÿ¡ÿìö†AZ÷Ÿ¬_YÊüèg?aœWúft8Mªt?ª°…fG^œİ_÷ªi×¸IP¸äòÜ›NŞ»àw ¼N¹^÷vJ3ŸpG·ë†s…3{~¹u9€²5ìå6’1Ä_aWà«D{DƒçŒó‡ïjÎlñLimqbq$·°-½ÂVq©ß+¸nTÀçÙyƒ·›Èâ½Åo‰~|Ñ›»ˆ~¤°(-àK¸…å¯ÚôËØB¬uÈ5ä+¦¿4ø¤óW_ác»;AÔq|}kù"„×Sìéà,ô¥ê\ëèÉK‡Xƒ4v>OBl«Ò˜®p×8LÑ©[rğ{¹ñF›HV³[¦<rËn/Ç6§ÎS×÷ãoHÑÕ||ÌíİğzïÅt¯Üs_¿{³z½ºïnºC÷énÏÿD|İ½¶¹f’QbîşúÓ:åïnºŞE…ÙĞ÷›qÙ‹K'Ÿ”ùfİÍ½ŠÈÔğ zÛ×I*"ÜeÎœ§Âˆu‡ëa±_ÕQ>uTJ‡^¼öBèáİ½©&n¸I1©Ì9Î÷±õüYĞì(%£LŞ©¦©ˆn[U 
+º¸Û­k(Ãğ¬A˜[­ğ¯3p¹Ü¾ÉomJï®­9+ï)’Ç0$nNé}ğQÏ'Pl_¢J÷YøùKƒïò	á¢­c8ÔÊÊÕKçƒ|CSB'Eb&ëìƒÛA:øal.ß°ğ¿¸Ïƒc‚i;é¬v¢„*ğÁ¸S–inNñ¿3¿Úì™ù<¬Â$òÁqó Îë¼>îşTï'üË½ízo>Í'Î=Ïé“IµS9éÄIÌĞÿ™Ágœ—»j¢FœÖfÿ`T~môskş®“°v9^Š^qê±›ºıN4_ó¯_xxPZ¯Áæ…ÛqVÕÕ^Q¥YAÀˆ”‹ÊÊíøW/~ågÇèÀ5r—iä›÷ê?ôÒ*¬Š‰‰T<WpÂKË§²¶1€¹C’Pö€7¥,{@ŒºF*ÙV²«>Ã+QH]lOğû·E ŸçËuşÚMÜßúüÏ|Ş«ÍuÈåkııh;%Á5D8M §‰ÌŞUÇ"_®Håpª
+>æ`õœB¾¸^“ÂØ³Ç…|t=9£µ ïˆWÁŸ»!+.û–02ÙM\›G^ÒÍƒ-¿Ûÿ˜ƒ€ò«z3'³2Fß®¼nt‹º3ÅyVş¨7Å÷Jo:/ê<O¿;+¿ë¾3q{ßõ°¿1<ğ`VWen„WüŸÿü«¦ÿo_2ñà.ù^é»“û3È—ÍeoÃ}tP…O¹Wüg.>íN‹È¹â\ñêiÕùô…W½é¡WõãbÜTÇ‡Æ{ı7.Ü:î3‰ËAä?ºâ…ãºHİpÃõƒ)„N„­çxR¹ıaeªJÀøuœ#áâ(!v&A"–É5®á×pQ·†Û¾«k;G
+x_øW¹Şn-÷ËˆèFF…GŞûD¿*tÁR€µş¼‚9øúÌ‹x<ÖºÖÄõØ÷ú>ˆÇØ‘/±¿ä|!_bâà5bø¾Cn×±×Ãö=[In­hß˜7öì€
+Ìà€€›ÜK/ıhkìô·ÆGrPÓ«°Ûsæ¹VEôËlÌ]×®ˆŒ‚ôb‡ß¸Õ#Â“Y§÷é«Ş}t}Ä³¶¸Ï­ošê³ó¥û"0³·swƒ²—uœg{Üëıkäô˜ÃÄó.F—üO^~¾üæ½7‚'†É]v=·v|TÜ#z³ÁÌIœ}´á"jğağğ÷*ïğ°Êâ¢&ÖV™íË&=8Ä˜Ä
+¦Z”ÀáLd:Ì 	²
+£
+à§¸ğ3Ş9W
+x_xÀ¶›Ü>´İx€»æ;îïÍÙÏƒÖ0àäò£˜ª^›Ömõ>b}†8åÚŸŒÀtf)âÚs<kí/tşù5ÈXÉp¥k];‰|åìô¼,ü°\1Tr&éKX–LD’ ”VDólİít®‰2«Qúˆ¬Û£ÓÀDJ%"š{¤_|œõÄ	»*wÂÄt¦CÜ¡KHÂ{îl¶¡À¥ÎËèh [Áµ­‹ÎÆ¨ë|ÜÙ´	ûòK°æ…Ğô! ^"³=/ôúN5Iª6$9<ètò/Şı²Û‡åN6ÊÒoVã„ğßS¥éÊªgU¥,àá”ÅÄ/&yçNáLª|în×É7¨'¿dBØ—/à›tttXªÂèö3·
+‰åeÍ<¬*(Põ„03+¤óNˆG êb8´aâÕ!lå}áU@ÓnßY|÷Çp?z_Ü¯`ƒ‡®‰/ÏqË8Y–9ñu7¶n›¢Xè¥&¾/ÑNjB°GA eİ“ÎW H¶ÂBìùX“-ò‰ €|Y§ãö¨4ƒ®W¼M/‰ "¡†`m¯Šİş0~ÙK›Á¥ÁóÉØÿìë{Òª•ŸF!ŠmL±X²6¬‚ƒÂä$äêmVj6?Öù+ág‡Î›O#C8>|¾{¹œeˆe¢’ß9&,œ$î…cßDd‰Æ_İ5³Qûùæö½GÅîì+8ª¾yt«øãé×Ë¯~Ç{npÍ\«¾¶ÿÕ"íMª o%&¹[^òpûSê=ˆMû^¹;Ï¥[Ì`u’E8»õæ #o%È˜p/	e'ÍPØGÎdìš¾O æhh ş1ş°pŠ	4¬Ø·ÆXvúÄ–R@¾bœ€@Úêş3Üß5†Ÿ×ÁÇŸ!ø€(._ıJîxäØqéˆ‡‚|=*àTgİ±èã.ÀàC{99A=xíùR âl‰|•Û å\Æ ®‡“$²Èç9iÏ‘é#wòDç_¾ü—‹û¨w×™'SÿÛ¦Kf6éE³$¨ı,ñq-È@úè#4A7JJ¿:a€æòArè?å]	ÿƒá/;şAœÿñÎ=Ït°ÛSÏÿÌµËÅ—vnïö¼kfÓ¹óàÈô‡AT¢`¯fßØ½UßNŠÜ<³õdø#kŸ’ÑZßõïg9QÆùx’æ$¡üM7Œ‡”«+lÓŸîÈTQËê7ow
+îÃ<ì¤—¤¹Ëyr?/”İôjB“k?Ò/q‚‚1Òñ„µDIA4k*@ôX)°bœÀ» Xî‚ºqH÷Ÿáşh1)ÎeÁÄ­Ãåú-«Ÿğ­D˜#ú¥÷A°¢|Ö¢'•«lMèˆc%ú!|0îùÈ'ó«"ò‰vB ¼åz!¿ù‘à;'×ÍÏÜ^•Ç{Ş._¤óò[yïšj¡SPâYöIv5§€·7Üˆ†#V£ğ¬éx»['×Ë`¾ï×N\üÓ¯yöõôV}ß»•ëw©àz7úÌö+åá4óÆÕ¡÷çŸ~!ù_ßş-OU}‰s494ûÕóVµW]Zï‡ùQş`önq÷øò‰z    IDATQñÕù·ü«—7òz–Ÿ+ò	oÇ>ö½›;‚ñMP_¸^V	é_ôœï‚Ş…ŞO;{aà9;é,Ü˜9È+¤ƒ»Uzá;æjaFßª¢Ié–[Œå") (‹AxPJzŠ- •é£M1;›ˆX.ãR+¤Áı#Öu"´Ûn„åó“©n~k÷ŠÕo«x$ ò•ú;†ÙTÉ£Mœò%0z(œÀ‹ƒÏ—¢\œ/ä;äÔáj‰|{M«ó’Cû( …Êq{ÄèùS?Û¹\Œ:ÇeQWõğ Û‚½>©1ìqhúµÿ
+¬RCû¹?Ÿø½~Çõ3f7Š¼*4Ñ³³wÆ·Œß™…—øQ{Õx».²ÃìWŞım÷¹ş‹¤_åvû*âÍÀüæ41ÇÎØx[İ,?xXU$|îì'j‚PÒ¸ò£éüæü[ˆŒ>$YÿŠçÍáŸl­™%E‰w<öQú@Ûßd%Ñ£^Ug{Hùí ¾•§òìÍº
+¥zªìX²¡vï]n_2Î£4PDLº Ìb
+B°E¸"A­åö,K'‘n‘O×RåR|hÇ‰€’Wïdùë,»_Üä}‰~ùüÃO+r,BõhİÂ³5,Ş\êıÆ×·šÛª †¶¹S“Ó—d8ùÚ/äësñĞ+Ñù" =ûrŠi÷êÃq‘}=3İw7™6# ‚¡Z9˜D •«%ß¨ÊldÆÇ®yDì¤T5áõ.ÆeúBÿ’÷/Æ³êª[E=8`ˆ`ª½ÙÄì¸GÉøáƒâ ¿—ï­=À0î›&Œ ûr’.åA„y7ˆ}‚P„ÿ#P?&~Œå6¿MÊ ›?šç£‡£ùZ’Â$˜-¹I€…$(²éî½"ûN9İê²!µ„AÇÓzSçBy¢Æª‘yO†•ü„°pbq$™›ş	…KáôTëšÎğ¤1/¼"jó½©õû[Ëßïc¼)i
+Ë1ĞÆ“(ÇğS´Ïfè€3åò)ıíz}T×¢ˆc@›ÔÉñâ¶ú@Ö>b²+ö—œ¯ã­¾oÈO€=ª¯)¡?ìõòîª„ÊİïôÜY%Ñ^¯­ûåQìáeª*E˜ ÎĞª.CİCˆÆôÍçI?›úÈ%âK8¡ì}ÅÛ¨¨ªÂAİï¾võ¯N"ïbµ¯ŸÊ÷²]{pišŒ¾™ä×nÙñaN&‡bÜ”µN^“5Ó´,'Ä³Àv,–}a’.ö&Ê<r3ÂE¡"Ptw…Ì@bšNG¥;)ßÁ_øùàu¸uõº3=(âÜíu.‡ılëÓYo÷nJ}õ§ÄÊè|mY[ +Z¶@±êd°q­g›¸ ŒŒA™k'›L|âÈ«Ü_&±ä~¸z…ûµRG¼¶ˆS¼Vô“ä@ÅÂpÜZhÒõˆs*r0ş<B~Ë¨“ÈŠÈà“‹v"ö9f÷sfòODşªÁ¨õµ @õ¡T±‘ÓÁb-‹}ÙÎÅb>CœGœ•ÎM–G…3‰!ãÌ‰Ív	v¼k¶¢klîÑ>57æìO‰¥¹İüõ»uøÉáÕ¬œç÷n9ÏF—ÃONŸ
+.=ı|ö•ñëÅ·İ£šQæwË¢œPı‹±]+$Ë]åˆV{Ş:ªÜ£‚Fî-[~ªóC,™^YâÎùù‘[o”>b®.GÎEÒ¯v¿õU³…5_=ß)Š×½²û±·«;¨·ôan._vÍx^g*Ñ¨—T0£örÂB“^-I.œÚt±$D»{ïÏ àÖø#ö|soF|È#ñd©UÃı¢~œ¦¢ëÆ-¸ß–pcÉ;½†û•şQ)—F¢ƒæ\UğèA
+êå#!®ğn“íÃà¾ÇÕ«ù÷XÅ<ËŠ}‰óW‘¯=+È—DQœ [QdÖ2Áwˆ*/^fóš|açÇú¯$ò·æ~ô s/ä¸eã°"wĞq©"@_¸#÷‚|·¸“ŒÌms\Íê´ f§ßño„O¸?>¸d¶İ.ÆËığSÑÓŞçn¼ì].û?è¿Øùék?ÿÂô³ñsß~¦7_vnî’ãKM=E¶É*uƒ('Â[Mqìy¬Ìñw£¢vû3Ç?Nışµ'?NÁGNˆxKµL/H,Üöê<«ò‡,:~2/¤s
+ÑgÓŠ¬‘
+WÕTK)`ãà9G
+(.ÀÆº¿I‹ [coŞ[ î?HÒ;‡óeØW+wk¢Ï­ß/1/äS]xxª)i­²Šá~Yı”µ	‹déJ%X_½ıŠïÃç<‡ı’SB›B»ˆ;¹z N¢½Ñ÷ú~ùœëdãº'ëµ‚Ğ½´ÙO‡ó´¢¼’¬ôÓÄFáÆßzöoìÿÏûÿlºï/L‘H2É(,H|Ÿâ
+ÔÙ·ğV1ÏvêNL1so¯ò; Ÿãì^ñ(ùıìÿ}wİ›;;É­z'ûı»7ıtÍ\şOÔ‡;S3ûE’Ì¾5Ş7;ûG&­Q(0†ı¼ßó½1å§±Éœ8õ´$<‘ˆ¤±ëüzjß¿á½äyÙvÍaÔĞTˆfõló•Ãpc^gå‹{;H< 	Dëøj7 cÌ]xòÈÈu7r	s"ĞMx¸ß†x à)ß­Š¿GĞÁr¿Œ	UÍ.ÓgõâıHˆEÄO‹;Åå¸„N¦Š|¬¡Øˆ~»V^‚ıl‹À° /NÇúùqˆ@ôÍ,Å¾~	ùH’Š#@¾6‘¬`ÄÉŒå3×ªj!‚[ÿş_ü¯œË›yŞ¾ûGVB4–XÂ£àmˆË9÷f,R<.¼Èó£‘¸§ƒ"™ä†4Ó{eY¾ë¬a¹|=¹_x›R½³õ„7şß4Å¯İ9åºaÑcØ,)ª*Ü$“CÕGRLbë¯J}Uôâ‘º^‡pµ7¦¾ƒ±Ç˜ÑÊyÖ!ì^7,|s¥w-ßÙ{äm»&KÊ²;Î\ÈüaiÒé1Áµ1³&‘±¾áÎïŞÃobUÓF×)’cÍ{a¼óÜQ¬Sc·PÂ1ÉgaÜnŞ^hòıÿo<XMú@2ş0òlÂyö
+‰è°CDŠ„®ò çXùâ~æçëoÁı RœŠÚCFJÜ5Ñ;D?Q>Ğ‡záÓê}ÉÑ«
+qÈà³nŞäš¥"Hçi,úä™/Ù#òØo'Œ}yå¿ş7ş®·ıéÍİ¿ıßÿYZ \O²Œ<$À§U 2]F^î­9”ê„Ş…ËfjünÏ‹™PìûAºK¢‘Š!Á~NÜ/«i™Û'£Óê”j¿"&—Lê‹ÏyÅüî–å¡çTØÙ
+œ²¿f9É L^\B¸ŸXÖøƒÊ×^Ó|«ÕL'Æß¢]é¬Ş;øöÁWÒÃtÎ¦©JD*wTx¬V ¡¥v;N5ŸQ2ƒôïã*J¨ÈÊ×U¯5—I"Õ*I´PXôŞµ†‚®‡(mŸ%”E&ÄÑX6ÛG@£å~-ãÒR-
+ú¨İá-÷cèÉğc•å^B÷h¹Õ%¾Ÿ£*TYm‘ÎÃ7à¹zjÃáœoİR!¿÷²)”-),ˆ† •L6Õ#µ"S½ûşÃN‹ùK‡g à„F) /Â¢ƒZ«4-XŠqX7ï‡‡©;aµKß%´í'q:¡:w]B6Y´­ç…–uÒaî¥©(Â¶qöàönîuœŸÈÒu>¡Ò•ñf$»l$%(‚>ûŠĞE	òÜIafèç]o·ì­'åq’Ì¼7ğO3r–¹b+x«UQ\pîL«Ñ³·òû®›æ^!œl„ŒÊ6æZ{ÇÀL…pÙv$±àÑ?Â91† ”¹ãDm­ïMª&±ºÿö(ÿ¨ï„&V¶›¦Hõ
+g&@Ûæ÷9ˆ?¾1ü”¬hÅµ8b b¨¤÷DKŸ/Î:’V¹V×«-ƒúşhk‘¯_a!9,ÊuÔŞGi{oíñ‘Ä­(P	1½Dón—ô`…Á|B—kİò`Ç=_
+Q3¹3q»G.Fôcßz‰ÓÙŠq,=w4ŸİYE2ŞõI<•ä=»˜ä,TÄKRV±Œª°ÄÁ+ğ;f’wÑÆIIq˜l""bµ§ì@Œç‘%İl´àLYq’w&f²Sxİ'±	wj¢|µSİ ‡Ô*y…µ?ŸÓŠ[ïÃv+nD l$¦Ä´ÄH!yáqáX\3{6ñİvtS6e’˜cÓe\d9zÌk?-B8·‡i^¹w¤ˆû©Ş¥&†}â:k¡ƒ„;Jœ †İoŸgïÅ)ŠğÙZ F÷oÕÈyÈol+!´óÁ­¤0B„%#´!!Åƒòç?©&²»®rª·à:øXl…^@—vğN‰•49ğ»^–$ÄäH=tU*^æyşŞa]ìA8”âäã¸dÁb6™zà–b}C‡ûPRo„Y©©™ãNögq¿Gö°Œ	
+÷ñş}sU,;‘·~5v/ôÃõg{n¯çW‡E‘U½<¿§u’&çê¬FÃPBm#+§umR0Ğ˜
+ô*ÜØM¸B
+[Üw‹K€ÑàÖàõ6¸Ö¹şçKÛu›“lßø“ñOŞŸ›!± â_®ÓC-ReüaÆàæ
+{ˆ"6³åº†(~¦Vˆ@>íi–ë¢„3v‹$ıË¬hâì!Ù$1Ïò¥ÈE$ƒA&ŸÄŞÛú%*u”?ñ,>mJ™Ğ±E/•Èg–DiêgYšÇ/ÿä“&9`77™Î&S‘uL|ÜËD¼dKs÷ÒLz´‰=Ù‹¢K£4è¤&rS¬aÜ±@d.2Ÿbäá•d“1=£Â+Ş í›,è˜MLqÊUÑØ„Uféİ·“r§˜›Ş™$…’^)ùá.ŸäˆÜ å@İI‰Á~±`q"ÜØÅ7v|ŒT¸câÂŒí·¨À[‹kÙ~®Õg‚?¶É²n&ñÏ–Û¢íÚRü+&$°Ñ‚Í–(„s˜ñF`DÑÖr?¹}yéKî"¤)y"ú™½ÕèBºhÍ§ªkÀd¨*4JØÃLfÂ:&"Ñ5üçÚ^“bì‹?şÔî€UÎ5¤ õ§ïª+ºOÚpUäAòõ/İu©g†¾é‹˜’$F%×^¹Ùi·[<¼s˜øóY^”w‰zâ¶RÏ]'35½éŒ#v½Ím?¨KŞ2€~ğ
+BUşš? !Pö)H`ıÁ8Úts”{2#.$¸u#ŠS’$Ø™Pª®ÅFDIğØ ×…!Œ›‰æ2J-Ì9å'¨Åfqˆkg¯¨bpndÄâ²…øs¨'<	6ËªÍaËoÅ?ÈhÅÿrµ®WëZ—:6‹0í“yr‚ºÑıKî×£Ìµú›çYD’Z¶÷‚,-lİT8r—kµ5DDEH‰®Ô¹ØGÿšd"¢¹Ó}jKP´ ål<hT¸‚ã{8	Äâk|wæVaUûÃ§áÔ,6	•@h}<Ğl®¨5ÂÁÔÜ¨³¶ä‚÷8A¦°dtîl;{$ÿ¦ì~ØYC‡Ïêœ•¤lH­ªĞzïKw4‹­?‰9vrVBaaÍG€ÏÂ•ka/†|jÀBCÿ áNx¶j`y\;À½.7;ÉªşG¤Ù³¸+ÈöÖ]ˆIÿ\+İƒs…ùÃ!îÈ–”¨·6ˆ$À‹c£¸ß1Xİ¥ë$Ú…ZËÏ'µ°”Òù,!æ*=„³Ğú®ü[9
+!ÚGùäÎÙ~¾«gKvp÷ıÿĞC†ÃÎ¬>d×b€–¸©P‡-ƒ°×øå$ß:
+êUDº€û{İ`WÄ:p‚‰>×<ÍÏˆå¥5õÉˆ‡9¨à‘P+P4d§«â(7qbÆ£0s—4&'Mü–5êa¶Å^¼G£Íø‚ûñ`»{‘’:®¯Xò¶Œ:àPn.´¡r¥z¥‚-|UÂ•òZƒÉyÂpØª{Ùâ¥-Î-´¯Xiõ¿NÔ¶Ôÿºâ_1|µc³Öÿ)ñ/BˆZP¤øo€«³-›2\xmŠóÓ R±~4$)ˆ†ûu=„a­~¼*HæDôsˆp™µE,Çò
+j9ƒ?ËÄB¤åuNÑ¥fŠB˜€z„(ğ¢l÷VZf¶@ôq.!0À‹J@J=ÉKŠQhïQ®ªt‡#	Uà`9uH#ÍfNì¬êó¼ÍÖ†@äs?èï
+…0Oùå¤Ó5ÕsqRÑI„¬W²è„P‘PDâşM³î%–¤åÕøaå…¸}Z-´‡;í÷Í“ÕVğÉè™àågÜ.ãbñ1w z¡Ã{pUğ,9´¹ö[XXj@*X°gnlEªZhB}4v€=|ÚX¼VÇ@sXÿK½dAúŸÍò–¾¬l¶C—¸ÄI±ª~!’Ø§ı ÷”ø×>î&º0şôÃî±çso‰aK8BŒ¼¡«µúe;ˆ`šû4ã¢È'9!)
+R1æĞ–D
+’{Æ …\EÀG0Ä
+°¹·ş¸^€œ“PàAÕŸ®K#BÀ¢@1~á|>-¥Ù‘.B9¾Éæ[ã°»ÖéÕkOtƒè)Lƒëá¥ŞomûBYu’¨{Œ-PÄŞ†ò]¢±Cÿ™Ÿ¸lÊ´?giÍšäÈ#–ÁùîÅà¹µçQ1Aô©şÇ¼O\.7Ç¥¿÷L\wêµa‡êgß 5r¿#{¯°—ìÜì·¸ÑV¶%Wì€•ÃíH@[À·GtÆC(å±²-õ¿…€j”°ÈÍk(NŸÖ’C?Ûï¬ûW±4QÂæßo‰Áª+ŠùÉ~ç—Ø¡06K‰GC8’„ò.4{>…¤² ö(Á€öÊzT¡–•aAlNê`éxñ2øe”2Œ“Msïò/Éàh3ªÒƒ$ª‘%!Ü›…V‡×H1û¤]b&ëÏ©ùÊÆAÂ’Ìñ MG³bv“2oÂÊÈÖúQò¼_uª¼¨ïo}åâ
+„‚ÉõÑé|OÓj#è»nàgº/îNİÕ¿G‘Lq;ú‡£—”¤Á`ËO3ÆÙÂšaËÅ†ªjk§	¬K; ²vQK¤x€¥ğfÚÂµ5°ùI wå;dh¹—5$Z š6éõğ±œÊ‡Õ=Æ!¶a*"CN‡‹,Ò¬øo.R9QâŸ’¨˜_v"|¸/«ò	ĞJ©·~OeO­r}vˆØ 1ìLŒ=Ê.¨ êb[PzæQØË˜¹—‰®=\…#P»Q²¤ÙšXÉ$]é÷.Ål/¥H±Rè;ïÒyBÈ•d—ÌH¢1¦·~£—¿9õH+b|cmÌfuŒŒu’oõfgMÆ>şHıòxO+†£²W…s·ø'á[+ÕÃ:ÄícV¯Wé\RïÆoCÂw§KÕÜK‹ôİâ6 ,ÌlGwg„Yí„B&'dõ%¶ÍâxÏ¡ºUë„‹½§M8®ä<XÜ±[¸D|¶õuÜ»zÕš¶6 dˆÕ¤ë5ö·Œ
+6ÛdYş»	qzŠ-
+ì„«Em–Vì>a’óœ6û[çi³×2àù€Úêvqº óBF¨h*dPÁXq ÙŠ~ÆµJ0‚£>¥°äË°U4’´$B%ÎO[=³¸§î/"lgA<·H÷²ğÒKı2§^¹ ÿh7£à%‹¨a›ŞÑÌñŸ{
+wNÖ RîÒ“D½ñQ”>‰N’«œhIïx™igìªÀëH±Q„„ZÉÂ|êvÈc¤S6A¶pŸï{É^ùİäVò&FÿÄDıyöàöa>¯IPÁ£Á’g#`ş·°±øf8jŒ°;êW"Bßœ	‡­!Ø8		÷®Ş³×hşm< phKºØ·°:­qÑÈÃ­ñg/Ú²-u´¨Í6WÖ@[©ÀWYÿöríÁÂ›öÚI`3óiU‘$ñ¯»ÒËz‹$s#n+—JôChš0S$§ bgÇŞOfˆ0!,$€@”£]¸’çá&HÖsdññ¹ó-™Ûf~÷[ûf~±Î5A¥õe(Ê#êF¥wÌj?ú¦Çß•òà0Ñ”êç†âi~‰’l’‹Á»¹ç}·pûÅÜ/Ë˜Ñ0Ë©­V©X•LéODù1ñÃY2ğg™ªyq0+póPÆkZ•=FÌò?{H×ÂXØ@Ñ+† ÎYâJó“!(\²µ¸ÕwmÂ½Ğd·³@»ß~.@K`yI#ËŸ‹os¤4^üâøâ)V×¹­şg"KUQ%ğËÚû1xD{Ã±Ü	¢k%•ôÇwœcÅvu¾]0#cÏ‘Z£Å(u|©;Db¶ •kAY>; ¯n	‘.° G@…8 B¼0¥Âşd©f
+Q#t	»t­??¸ûñÙ¼L:F‚¦.|NuwS²D…_Ì™Fšxî$‹0Àwç~Â##`T	5‚uØÉjHLì%Ô:Yƒî|ÓÏ×"§‹|„“¤kÈ5VV-·Ğá&ì¥+O¶%8;9Ò|[jÛº€gO<ï÷YÀvåÔ‰CC×bIGÆ!f¦Æ’Ä°¬…Àvã»î'sÎ"ïÔÌp¬¢{	Q2ÙtÌĞ¬ITµ°*0õXçoÒ‹É#/×H›hRS± B\ VIÖcGXbeƒ²È×Â	t/kx§Ó»„ª¢wŠÜÚ_”^Çîî’¯#³¥ö°ÓC¥(¥šØ¦½2L£ÑA³Ÿyë¦ÇJB4c€¶š¹ˆªµ*‚ú²Òz¨…¯œÒÔb
+Åô&õOT9õÍ&%¤,î§‡€`«§Ù‘¶x'ğôa€½æœ„û%z–Ç[Pàş˜Í"¹=Ö Œii®²ƒÛ|—hıÿÅ>Maåx;][åpª¿ºIdc»v, Ë±¶F!òÉ'QÜ!q–‡0¨ÈP‘Â5J(ç¬›Ê
+:lãÃ±fOB„³¬Ã€ÀÈ17Æ®³$à”0+£ \¡jkóéõ¸‹°˜eĞAò+ôã’Åh`“„îŸdï‰Ìª
+{2§2Êó,eX ‘-FÁl•ò¦˜‚µrºjG!!ëıvaŒ0'×[B<÷ŞÀ²F!dœNÕ¼ë›ı¥=:Ü|û¯,«öÜnWÏ;E M¼xå°L—Ø(¡=9Ú¢íñD#!xj³àbO)C>ÎV¼+~¯Rrq>†Z\L’ ©TE	Èœ×Ã¼è09qá¶ÇšOÊ”jU‚=ºGşl…
+pÖ>ósÏè‘AYVÑÆ³kl _)²@Û˜Í':„ı°åe+øÊÑ:rTSTm®Dı š¢¦ÌE1KXIŒ…%†›WèM$WLòBH	04(‘‡#ûHäP÷W¹9%NM±jRÎéºe<²~ÚÂ+HdPBurc!ÙİºO»ÂA»sõóÏâx… >ˆŒ8ş¼üLqo3°nÈ©‡‰ã©K.¶L	o­Ş{ÁÅ'×Á!ƒğ»İ •–k0`İQqm‚Å¤ĞI“íQÒÑ¨]ÖÏÙX"„ƒ”Tõ„’¯Äk®È­ ¡{¸3ş£ÿã¤ È£¼jÿ¦š· ôquŠš…ı«Ÿ¾ Uø Æ­àTÎA‚À‰„fE‰à Y•äúæ^dMrpN› [<]Oµó¶clçV¢®¸š@"{‚~	Å!£¤u€ş,1ÕÛ·†	}SÏ
+cXÛE°r»µ8°8‘dGWí	ç~àc… VÎTi±¥¶Ì­ıµò¹*ÆEİÍÖ~®œd5Û†¦Oö[uÌOí—†hÄ È+|b‘½BÓn¶’‡0½ìzì)Î!ièT¢Nıb6ÖY!Z©œ•¬&æú`º~1\D2ê¶ÿD,Õ$ıïõ7hJê8ÑöõrEx·æ™[Î…­,ùc ^Å#jp©NpÜ«:6u(„Za€YCk8úÀ ë)üo‡nm;¹qÌ”ø‚¡Ó–ı‘²ê6Ñ<Ø‹!‹¡,NG~ˆF‡ÖùLMNmôZÀÖ9ùrr§Î:ûc§«‡l‘åêû¡·/[Œ|bÒßÏöaW-¼¡öÖê˜e	…	úş lş ¦/ ô‹à5£aìŒ…Eâ0x‰?^×a)_h±nMK yRö~í@¶5üøÀ±ÛCÓCŞfA{¦{$]¡ J¿òûoÌ0ïè@‘Ïpë·Ò)	 ß=D¢ô‚Ox™Ş¬j ¼¦¢ı°A²d ßYğãE4wbùÉ’Q"’†È0a¥P¥ˆ!)ûš"M,î·÷içñ}|Z\¢³›¢çK€³gşÿù.SÖª„´à>ib–ÕÈ9Àé²á—0Y6ıakp2©Ğƒ4 ê†|€j‡9$#’YÒLæd£»„†¨éå©f“X‚¼ŒÄÖ¢¹øäëIçÔãC´håRI™7QÀ‚¸%v‘ŒŠjÏ %éÓG†¹™Ÿ¦»“Ÿ    IDATëô(‚ÌàrìŠ8ıÎ¤OñÖ?!¹œ3ô¹`’²ıhBBà/#AAC‰È° ©=öÿß¨`@Œ5Ü˜§^›ÚJïëÁ+ğş¨×[¿\$)Üèz•Ïí¦™`ĞØAÇôTõpË§“«ıîĞ/?X×B¦9Dª„•ú.ëÔrj$ ÷•øGÙ²¡7ğõ9Âa´â2Œ,ÏêH†#¢™ÃrûÚùÈE5ş<ß¹ŸÆKNäCSQw©µ Î:.aÆÛÇ
+^r½*•¤¾§Oİè)b}%\M³ ®še©À‰·}Ìâˆış=ıc_+F‘·²	÷çK åÕ?l[½Rj³µŸ§®¶ˆmØi·ŸíşÕOàh|Í3hªâV×xEï ºWdÔÈk¹ m:|¯{!
+d cM—H,‹ëAŞ²"VK¤“HA³ti<Ñœ€*k\¾*Û+($#z¡×ûäÏ>ĞëÙua\Æ!3‰€^æOgÃB×|Ñİ<HwnşÌ$ÊwQZ”CI!8ê”(ş¸(CÆ¯¥-{ö \Ù
+tŸ~7ût€«,ÌôR¡5õd¶ÆÀîÑ?@àÖ«¸°Ïùç18]¹ôƒ‘Î µĞB^Júïœ~’ …4‘éÔà|oìğöT µ<n÷5çjŸ@°ä•c|‰,®¤ê–l?í°õèËBN^Q88P]“qxi51¡e*åY!k–Ú-YÕ`9¢–²P',Å‘GRà¿W9îùDx¤ît.øÅô 9üÊ?~““`-±h?¡12OÁÁÆ.0I‚Å {-x˜‰HO±-ğ	ñïÙ
+*-i.`¢à”•ó8ï/ãËM^—`Â}hü5£hŠiÉåi-¬×“À‘ÅÕòŒó¾œàÚ®=E/;>µU§kíÖÒ#bå1›&sjCm7W-®µ“Ğ÷†º›óù°o®c™¤|¤"[WH°À‚$ ¢ —‡6 M§Õ(è¼ø “¼}ˆ^z¾m…­7\nXxØ…>+ìXœJˆw½p?ÒËèo‹Yæ¤s%Ø$Qv)À"#*“ç¦ˆ’”Ö·³ÆÇ‚Ğ+5T˜9‰‹`o²˜¹è“ûÉÕ—Š x[˜è OL‚Åş28N6¹…Ûı'ÿ†/F\l§pĞî\ı<ƒÃ³8>E ö:-©b´šªİuŞ?¶Ü«= sùk…6]n±E½İômåx+øìµäâÌ$§2-‘+ÁÚ]NUvSK/ó1¨ãÁ€V¢‡?•s«ÿ¤3 ˜×õ†ëĞY÷öWÇ¬Ç!® “Ã¿ÙÁ·gö˜ïÈ{pƒ}*kE–»æøîÔÛØ¦ö&¡ÁK¼8êT(]de*½-VÑÀÄ¡rË¥øÎm!#.Ò<¬Ï‰:²TÙhŸÕE‡vîh5Œ}ºHÒšví³ÑË›)úlïyz·„Ïe""ı~ğË¿÷ËJïŞív
+íÎöZ\ê÷·í!}ºz—ıGİ cÃ Z:Tëíµ¢“Å€°­XÀÈo¤N‚»1U‡†ïºŸeLí×õ@@™ï±ú±Š]Û€#4jÒmXW#AFğ–‰ÒR  „´e|Iç¬:¡=pdÑ_ï'ÖQø2Âm”
+¥ëú[7HĞ¹Ë¬È*€6}ˆÑd£û3®T0ÊŠ`Â}Æ<İó¯¼²&¯ƒâl|YH"­v“!'QŸlí—6$ŞRb3V†ğƒl-h­³ıÉÁgoüı¿öË½×®ülÿ§ÿÖ/O=÷Âpxá"¶í‚ğ `k+^õÌ–7ÁAƒT,Ú±|È§p¿äE½Ä¸«èîœM/7b³iŞS‡ l¹kñ­#KK— m¥HÅ- d]wT ¤}êl®âSøQí§²Fªå²×¨q°5Œˆ²R
+pn½Ğ£Ï/˜³ÒWÁ:Jkšök
+Ùºƒ5Ú±ñ~>^ÔWO¾“QÕíí©Ø‰¯Äõ½ïfa¼9deÖõ€`ş¯¨ÔãAávIôÃ·8ŸU6¾5-¼~$İ-ieÕÕ‚@t&W>uˆ%öÍüáæiScÈúi‹WÇ±P˜Ã®;45Ü}{ü•ı¿÷şNğôOıéÿÂ+ıåÿæJº¦
+]ÏÚ¢Në&ì[JĞ-pÖì=ùW8®ÛÍíS±ŞşĞç"Ÿ†»bµÖPK©ØôJT}Ú.Ğ+ÒX±áwñ®&ÉªÓlS’¼·æFÍF¶¦¹^çÀ€”îĞ÷@|
+¸È\î$7Bañ6‰,øÌfíb¯ã—÷Şd…ç±XD<wQÊ•óÑàP*?èû£ªaÊv¹?…
+Ó¯ôàNê¿Ëš%Èè5 ÄòÖ·:1u~Ød©*ÔËúôr_V*ÆÄ]ùGã¶[Ãİr—[3K©wFÏe¯ !ö’Å`çiX[ ¹ÂP$9SD,aßÚ%Åù»“¿÷k·ã¡áMcÃ¿ùŸşÇe•uš`*Ø.î«gC˜üfºRO‹m‰+áZ\r¬Åm{pï÷ˆ‚iƒ*jŸ^ìÍAY›<C“–¤×¤ÓSu˜Z?Á„šó4M	5Htà –€«'‰ìjyV³ñÇÊv\1´Áâ	|j6ÀËµ·ÑVâ&%àY±	×*˜"sSQ…¶ÔCòjœ,Ş”p¼^*G¬SÆ¢^ ÌÉ¥N|Ã+TU>Øóõn7¢G«ÿi°È‰Ômf{XØ'û±ƒKI>ØËâ.b«mı‰Øìİ+`Ø<§ŒÆ†`A¬ï“Œ*§Â=õ ;öDA7ìFÂ5sĞìô[D¡ïğˆ>9™ß4úHvõ{n:iöıßü;ÿÒ«’~s¿ƒOÊ´5wÎ¦uÁZWµTG~°‘:D„gÍyLÌS{Ù ¸Ö7á^v«¾/7›fà–ÚìCšC’Ë&ƒµïÑµ³^¸‚`@ğtƒJû]}bœô'@ğ)…èh¬JĞ§Õ¯‹«#Ò­²Í4i^“Ã@dÒÚ ¥pyáĞ(	¼¤)–Gbf|RmaãÂ-¸¹ãV»÷Ç¼	¤=ĞP9|ÀH³Àyæ{ôîGÌF[ĞUø8Ó¡p. ­Ë]MáÂ5³g[Àë.éH’Ç”2”£ù¿¤ÿêª“9i®lR7V_2ù¤ôĞlsÚÛğI ßàÆªIÀÂ–‹÷°.  ±¸ĞóØ„£¥„o Á%ƒ?I!5çZ××÷EEBliq®>–±€ÅÃdì‘kP%"ÓbIÆ
+· \ŒËÔè|hÃr²®¸5#lì>Qòâ¾”ÊàŞ¹Ø^¸aøÃDj€"i@?«QÑr`n1Ÿ‚&º*âÏéqí­}j¨ò?ı`ï¸ëÍFôşÅY'’à>ê•­ôæ>2Çä’M§ÿVHK+î]>ÒèrÊ~,jì˜´øLn³”„ñóÃ†˜”Øc VEè<I$€æcæ§3ŒĞÌ‘cvÎ2p÷|aŸ…Y#-,SÁÖÂX°eì­Á­Ï91 ‹C„ÓÅ&ûE8×¶¸Õâ³°~bë
+¶»W>-ÕŠ •R1"¨ıÂTHÖbrìÓä¸w†× ´ÙcÏçŞ
+¡ª°ÂQ/Ï¥|HQÑPßçdjè‹Kb?œï¡0gğ.öHŸĞ¸MÎ"[5ªP@úªÊƒ·<k­(]o’PS[Úºä…›i]§S²~cJãŞê!¼ØïĞŠŒƒÓQy9P½1ãeÔÍŸŒ
+u'§æ\I×"\<ÏÆ¼uş"¡9Z8°_è…Tmî²1ÕcAÖ9Ú,7sOHŒ+{´§…¥•È"IíÖ2 ûó –x§M A¼}¶}<ÿ´®àYO@/0°† È«RÆÅÒ@@YãwˆàNjÊL!-qÖ \²SR<`¡¤^äJI·q¾Œ”õ‰ğ…@š47T¥•ì:•zËÖ`ÑLyôoàJœŞ§~æ
+9HbA°˜Á„Õñ´ˆ“Ş¶[_¹TEX­ıè»EÊbKE‘§éå8™oÇY¶ÇmâWE&¦ •j2
+¼å‡(âú“š9•>ÈiaDŸ‚5Q[’Õp»ğeÕ—rı9š¿ˆì™÷i4÷yX*ò,4gÍİÂ€û5.²ŒYÁˆı‚÷KK í½õS0~« pc@y Â™@;¾³­z -Î­¸DÇ*{ÂÂ8h¬EFÈçz#¶l/Aé`!Qc+İc­Ô¦óØÄ	8×P)?DµR“L@ŞÀBüñK‰TfÃD«@†	î1ÀñŞº(^#Û‹×ÅªÅëhT³ï¨ŠYgöûaòÿŒîœZÃã¥µ–ÈCxÃx;d\ó†à+pY]ğª‡®K œf@Wâµşg}·C«Oª.Ë)x©V6c¡;	á8´1{Jt/W¶OëNT…Bš²	3,æ½6œ.dé»CHÖ'Ëâm…©í9V:ˆûÆqÃv&á&ÖS*Vñ/
+–özÛÂX5
+‚ıRÿƒáÆêíàB¸5¸ÖhÀç˜õ<á”u@¡„€”Ø±a"K&Úi	 É	4“_ˆ ¹I-÷é§Ô€ÎµFŒŒ>†¢Œ¸nÆy4Be!ìouÌOuşVPp4'½ÇÕñ“è:.:§O¨ Š{“O»©sµu6Y=‡¥H›)·ò‹û7‰¶Phº¼m&6‰âĞÅ¦ÓÙn7êšA$1?ÉÂèĞPç'ƒ7ôÄÍoSë{j/[nIh)?ª§ã[¸¹pì®†ª·ùs7¶úúó7ÿÛkÿİòOÖŸ¿ò”İ/îUÔŸ†ÚŒ–XÀ È˜4°YÀj_©Ò¥ø_ì³ş1o@º¯öŸÕÿÜT¸³×‚ËÅŒ³İ´ÜûfgÏ½	5TForÔqSr!Üİê$]hƒ4ŞaÈV½AuÖBÑÚ–~p~ã6
+¤Øo¼7ó,T1† « âEáR¸QµòlX@ŒNî¸ ”ÎÒ9½ièºK ®ÓqË)†üõó½œ¸~ÆOv?ÿ•íÏu†ƒ(ÿ£›ß­ËYşæäéİè&õt¨Ü˜u8S'? ½FgÈªÜC—k†İbš¾UL;ÅÚeŞÎ@ŸÓ€D¼Æ«„âQ:W4À’‰‘-M	^zêzşæı;¨ Ôü” ®Á
+ûÒ  Z»As!õL›®;ğúëWfğ¿ıÚô›ŞCTşQù¸„ô¤Õ@¼j % |l .+N‘‘‚OI¢HUBìÒ€¹'"t'ˆöKGáÄn+ áNÆ<FÚRÿÓ÷ÆâZ€Ù=äªGßİš«ƒ&$ÜÚÈ õ­°PŒ‰UIãÙ ¸¢€øda6R@d!)DÕ.R–rÁØäÏIÑàŠ‘ıïâ£	y‚ ¼cî™Î®{ùß|6zíµŠÿâOÿ¥î«ŞOtÍî•ØóQ8Ùd-¡¼²¤i¼ß¡m4Mg¯`ñ­‰ÂİjzpÀòrÏ¬_#‹¤†Ò¼÷Í…(Fxè
+ûKõ¯¾qÿ] ‹P*Yˆ•£™ÈÌgQ”Nc
+?è2g=ˆŠFaº2Å*nÅZ¬÷ıxöŞúUÚæÒQ A®°Ğ¯ªeŞ2`´RYí½¸7
+x	4°Ì ††PŒ`ºP±ÿÂÍÂÿo@Vÿ7âÿ”ş_àZ¸_´‰»áô‘²÷§ÄÛ1Â¢‹¾ª+±®Y¥Œ(•¸Œ”ŞFÈDºXĞ˜ +·Èbc1éËï–!Pü–mct+xdQ.û—„>T‹a×$Yì1dqyUâáÓ!bàÈ…ÂY„ Å6zaÊ¤èÆk¼„5†³¯î¼—~ñ×¿‡AŞ¬¼Ÿ¼ıxÿÅ C£¥ÛÇãjL“ÿÍ9æyFm¨fTÒ€7Æ¼AvÓs—Ãj¶Ë¢ŞæßN!ïydñ%á5I¨ÂÉ²ù—¿ız' õâRîoæw‹Í+~Vnø!K’Ë¬£×~Ğú“’•œ »œy=ğ“çò¯¿ûs7?ôë!F§ŒÍ™—SâN €‘×ÃDÉÿ!	QHûZîç<Ni÷¤ÂÀXƒRÄÑAùĞŠˆ'Kv•l"yÖ¼Ä	#:x‘'UJgüÏ‡ÚÇg}úÏòÜç7zÄÙ½#áÁ&ÔÃõ/œŒ¯J/é£¥Ä¶ö=V@JÀ(ëÉJUùÖ4ƒ"Ö%¤¦)*ƒ‚”5	=Æ~¢ïˆ²ËZ ³ÔSúãÓÚŸFHV§&iåEn?Ö}3:òÃW:Ï“4‹ÍÇœ‹1krËûÅ£ñ¯Œÿ¹ÓÍÖÿÖ;?Îo9ƒaŞÿÜÚÇœO<y#ûŞyİ¬ßO‚ìˆ~? ¯oúéîÀ=Òûqz	6"¯>¢70÷HŞ¼â¥mF´ Ò¬ãÂ7¨rbüŞÃCT‰ë%áe&CÇŞAÆKëB/ŸDóŠ~Oâh-|±|£¼ÃÒ…§rgoŒŸ”z	]¬ÃQdÏgA}Ckåƒ¼Ø.€i„Ì6ÖXµÁB-8²@ã°Z¾Ü%øU+µ€nÏÿÂ£ÄŒŞ—üRüËâ´8ç©¶Q¤áÕ$4ŠÜáÍ ¢½”˜–¶öõ#8¦¶¬Y½ú,¹€èïÛ±R€Å®P)iri¢-
+sX­ÉğÀ¨®â°–ÿ,¥€½ƒÂåW3îJôkúâA*èM’+ÎŒxØ¥'fÎ’ï^’ı“È½ŞÙ®Şí·óu’êåß¥9Êëø-ç™á%3¡;À»¼ºM5Y÷gÇ¼>z—ï!U[Î%ó:MxDGo¢„/õX¨ï›u+»YÕ=–éll@¨±ëæ©ªşèú5gù7t=ßp£¨¾ŠÇzÑŸ~,YÑ&/ú,½T¸^U®1úĞRz¿ˆ†DÉéï]¥/Ò3öã~NÉÌ¹îUXŒúYHÉÌW¸ŸAB ß_Äı9e§’¾˜K<8¬YL$ UÕ€ûÀ–*!¥Óİ¨G´'T)Uİ´‹}tÀµ;V³Ğ0°±¿4j2ÃÅ®l|Øt;Øìã_…-åér7¤ïWc¢X6MàMAÕÒyì³“A6( Û`IÑKçj:5EœKOÔ‚•w×XK¯¼ÓZ-"f¸WyÒ^ºÏRı¤Ìy8jĞåíŸbŞáİ=ßÊ&—å;CLPZ!zâUÑ9Ò3	î¾Œ¨.»‹^ÆaV iØ«éÉŠµ…œñºÓ†EPy–òŞJZg¼+(ãEÄá¥I´„‹X€Ğ¶x¡í3ñ$¾ÆÅ ’ğ:î£æPÓ±J˜KõòKÃäˆŞ¯	ıdfİ˜—mò"ĞZÖ¸$$Q€ƒ`¬3ÁÎn‚%S8åûÀ^8X†èu²˜‰cg‹Ë…Ä§Æ´8nq.ÙĞlˆ„úÿÄXD;<ˆQYÕÀ ,ÉĞ¡zi"XEµòGÉ¥óğQãÊˆYLˆ˜.j@ñXö‰Ò©Ğ!‹#¤£ÿpï |õèÔ1úép"''¼¿ş½yÂ«K¦Éa=¥§ïo)üê£oã·ª1!šb[Úrxõy‚0ãñæ¨šø÷&oNş¹Ù¸ÃÃ4G)¥#W0"•X³Ñì%$\Î¨Jyïãñ:ÿ˜fLjAPšİôö&B¹ˆn),ÁzkÖ ó¢Yosóe³Ñ¹bbh¶“ xï´Ÿó¨[$iğ:zøÍèÂNş7.§˜ôxSc+lûÕp»z¥ÿs?£.zV	xu?&~Íü#ÁJ0[2°´®°Œ—¾?°—An?pbq5ƒ»6úgÕ8pÜŠÎûÂr|À­˜éµ0'te»LÛvñ¨”œ	èf
+Íƒmª(Æ º„:Š#¡dŸ”ƒZ´‰±«™3ÎÿôÎÆî*”*úµIÀˆü£W/6¥N‡ ½Ù´¶@²è”Z
+}’eÏ³ÃH-·Ğˆ{ôsâõfn:¥#åÀ§ıs^ÌIñĞ””æáNA²Àå½äX¸Å‚™Ÿ¬Ì¤˜EK~É‘ßŒ :ò	NL’5jtnïxùÇi?ôtX¥[n¿|2*³¡s1Ø4wMÀËîMîb=¢	RÕ	fãJ`x•,!£©“…ƒ}ÅàÓIÕYCRÎÊÎäèYLŸªø½ƒ/;Q´?wƒ½’¥)bEé
+k-6´"ku=A	\O¼¡¤•êÛõÆéØ)6úè)ØBP°Gy@ëj¢CŠ¥­ói_)»ÿza„÷…Ÿz[˜^&tñ†³ÙÍ}^ÊúTĞ†W`_§T¿	Äƒpy À•»zPk¨ï’­ÙÜÒë’ˆ2ë™'–=!Q%_ğÈ+ h€–†ĞPmşİ‚ÎH,0£)&÷å¥‚`7­f	=xhÓVLôDZ´•¼ÇLëµZv¤¼f©Oû¸+B§±n\ƒ’9…ujõ¨ãí»">œ”¼ñØã±Ã.NIãçA½ñ4t?á¾ÖùØà¥zJM©$gİ[ãÕ}¡ÙêôÍ~tÀü	õò
+ç#ÚÉMğæyßß3å+³f¬õ¯îé>û±Gxs)½E¹Ou>§Ğ´Áu(=< 64Çî\È§“$ğ ¡¨¨¤­D?êÅ™‚|éşp¡û%æO„—à§p¿2ŠÀ”g0-®•½
+C­ZÿŸ¸‚Š—}vû+‚€1Ïp_«yí/şQ™HYUÉC¨ITê´5=lTÀ«ÓøŒb`±„"2¤{ì[ŞÈâè}®6'ÊÄD­Lğ 2X6^mí¨œÿZ{ WÙÚZNaC5F)[la€Ó6È2JÊyäòZ—¶õø—=ÕÏèÆ1£7íUç¼ğéÓ(éBû[±oø$–È¨°K± nÁ n,–ıºéé:)ÆÅOæA‰U¼ÖùaçÁÔä¿O+øyõ¨™ûÙ›Éš[õ›fkêY’ù:ŒoÓä"+:ßsàÎÕ²›Q‹àzDÓÆ;Ÿ]ô§¦; …9…À½Cç1ÚK°>!íÌºë1…©&À¦wÌ€`(X†¶<]°Ì{ú'àÆâÈgw<¨ÿ–át¯v“<´ß¯.ö¼ù–2Ú P².Q²¸€ÑR)±Ğ/‹óWmüNN%q¡åSPa>AoaĞ	Ñ¢d8R)NtëïĞwB½¶Ö`+á°i´>£ÛäÙqÁˆ~æîœˆ?ï[øŞpí6{èôéÜ9ÎpªkÂóu‘tgjÀŒsÂËÜâ|úÿ¶v&?’\÷%#2rÏÚ«7VSİd‹T“Ú†VBğeF2àÀ†ß|ñÉ€áòi0À\|˜ãÌu³6ŒÙÒxhk±,Z4I‘ìfïµ¯¹gFd„?ßUQYUİMZ¯Ñ•™±ÇûíËûıPyÃÒWn¸å ½Bºïü‹œ«U[TÜ¤VSeTpcW*‰ç!œ@èrT®XmÖ_mAí3Ùœ¼‡Û~¹¹Dêvw´ŞÿjC}(ƒ;ŠGÛ,QÙ¡vÀáÔk„Ô¤<V«ÉÍ(™JaWçíñ0ğ7ÙXRøªøÖæ˜úéˆ×h¢[¶›{Ã+ñ.QO™Î2—y*3gÌæPsid“2•˜cÙø§d¿™H®È¼F ?è¼†'>+ƒ±•Á<E€f†¬pR‘L°
+.àŠû¨Æ"àŞÒ'0Ş8Ai©°mB)9æØ¥?úƒ?wib?QÄÜ`4gòY2H€…NÓ·••ÿò.˜§S….Ú¼RSuD-ÍxÒÙ<•ü}¼Hn­æğ”{ãØ‘ŒıãÖûıá¾EM±„ÑèÎ4®¢ˆNN’áİVY0hÖ‚$¬6jÖg@½Úd£÷OÓ“Gôá¡ş`¼4èü~øQèÑlŸõkW¾Zûı[¿ëY5Ğ†"â¥é°4Æd‘ŒÚıÃÈÙ9¢)ªö¹î…ğqÛ¥I0î^o­¿ƒÄúh8?Ä}~Dk¿ŠŸ¾n*O"à«XU:wÌ¡æÒÌ©t5æPs­979P¿YúSÃá¹„ÌÓ®aBô0ÏrPi‰Öî ŸJp¨ù'^ÂÃ¹}®|4Å_€ˆº
+MÉchBÁËE·ÑM1S§¼æ7Ô›÷—ÊRBî)Zû~ó_*Azt	ß´As+ğe*¯Ñiƒ®ã$<Q@“$ÄGƒÈÃ'§5ÓîVtI”(¡[Ù»Œ”*;ğ"Ÿ
+Ğ˜sÜöXSÍ}g@+1HÑ)—&5Ö¿^"¯ô&†y9Õ»‰3”ÜF£ü•ÖM;›Ó>+Åx7¨U×‚Ûö—İ³öJ¢F¥­Ñ²_w.‡»ÉûÓx b&‚•ÉA‹şôÀZ¨áùÁDÀ/ §+Á	*ƒş2â‡£òCµA„<İä¤ªûØ8n8GCÖR´O)Z‰Ú†JÌ²ÚÍ!Fí8('sÃ½aÒ’ı™q’ıbÚáËÎñüIú]m8»Ù·—ÚşEĞÔ`J#E }›ã®®Ş ë1%Yõ    IDAT4q¢£I’¬|my“Ô‘R!iæ¥Ü"BHÎ>ú=?”Ä\!4‹­øcëzuÜ× ƒ ÍsÀÏ”Ÿ©u[òğ&'HÀKÛ~¹Œ"§ÌÚê2ÅğÖÔûJË^ÀQ¸ä,UÖlH-©z.ÁNcºíãq­’)uÀ•éã,Î€±‡öb2e0ƒ=,.%Ùh ÄÄ	ì*ŞŞ[8÷|Vp¼¥ñª½º°T¾m-O¾ı é"-~û¥_µîà¸ä¡Vé*²>î†ÿåÎãEÿ0ØŠß³“C”@/,k<o}›*2>k»ˆ´T%½M‡Ğ¾2ñ%1öE?¨ÑÅ€:,‚O5?OâñCšU&ƒö°CœÙ.Š¥2W#‘ò_YÅÄÌPø+›øbô²D&÷ÓOÔYX#ºæŠ“ß\Bù“ëùŞS±û2ç¤ß2@ ö="„La4 '¥
+Ó½Ü€’ª©.€Je°rØ1~c…P—'J5AiT}*
+x!ù¤H–mWOêáğ‡rDúx«P9lœ¨­Bòô\‚åôéİÔOÜá‹Vk2oÍÅáŞ=ü_KØåM—À.÷+¡2œµwğ(ŒFäû`Š‡.*“HnÚ| I«¬¢­rK±©ğJ9v7ğ¯[î­é•Òmï¿~°èüúê—­«öU;à¡tö!£zÒÁ®¹ŸlO~´y‡ş™{£†½ÇsvbçZÍ ÷D±ü]x)ù¡Õ²Ã
+ŞåúnŸBáQù.x·ùjÕnLnP>ØÚXè¸9í;„Jgƒõ3W©ÍoæPs©¹â—ÚılFö‹Ÿ3 ¬rÇ!°´Ó|`}Â´S6¾ºK«×ü9\ ê¡šÒÚÍı”Õå¦ÆÌ“YXQËò\(PãÊDFÃ†#X›bX›b4Ï¥5r3Ë1H2?Ö#`3zè”)·$—=9!AÃ]t_l¿jíÃÎq²—h
+=ÜŞ›âJ£$Î#Xe_úYÂ3ıÎ¦n©š8mlÀ©^qËƒJ}>*XÕÄ…Šğ»•ÑRpu|µôíæœÏ6¯—>×^uo/_²—VZîëóî·_}Ù^fÊúÁ¡=n%ÑaçĞúÜÕKñ½Á$::Bàº“[»eÃÙ¡U£³"Ä£’<YÍ©WÅyA­À¸¬V–VØZM¾Æ
+|@(¬vJ•Õa¼;ÚŒ&="Q?®ù[6	Z1L÷8µŠ¬_N™}¢IÂc»Ÿ9eµ	/f©ÿîSš¿ÎÎc%2'1¬™ƒ úÔÆÌÍ.ğˆ¦Ò&ƒC*(°@û#: ²ÎO|­¢–<¡Ï €n<UDVz
+á²İ6åõ'Cˆ/.	øp@GH 8YD©¶òîFôÑ“qK`R!BFÎ½>«şü~~â'h´oí#Q(â0@ ¼gÕ‡?İw†~-V·i’2Q+`±éäê=Œ£I%
+ƒ1äQ¶Ëc\º¯´¿ÀŠ#´B:Æ.×ë*C`ÕVˆ{RZ“Ñ­ø¬MüõZüdïpˆãæûëo¡ñ¼Z¼£Û•ve1vêÄ_û÷hİEj–=¨S½¬ëŒk]r^¨êOÈò U.£$	Äıİqôd#š¯‘ãr„$à¶IMª "§±~£õkNS¥OTsböåP@¬“·lPˆ€•ÜãYªŸ¨ÿ€PH>ò•‘úÍ.÷O…Ek’ÌÙXåSº€¸ mFë„H$›!s'©›œQeXôª9Ø»œ7¦r%¡ }y®¯l-—ë@—&$PÆD«›sEîş„€‹·èN¥[àÀùÏuç]–öhÃzÍ)÷]¹QÂş`}2´ïÁT°­´L›(º¥fe>É{$ö¹NÕ÷$»Üê0” ¨4(á²ìÖ’åÚíàKV«¹`}´µn-m|¹q9>èğ¶`0P2¨—­ÊëTıÎú/ş›‹îíO/[ƒw¶íwîSÑg˜xó~8HH4§Äáa²>şh7G¥ºw­4o_™ÿ6õÄ®8{GÚˆğhøš¼QßÙôœW›ñcÿ˜|{‘SêÕ¿bíôvè*»Õk$=§ÆLQw( 
+Qòøµ$ï¦5œD¨b‘(~RúŒå}ÈËAÚÙ¿PM5ÿ\ö¿Æù)Hı&BéOïq›oš[¥u€Y¦À§¶Ûv“m»CãĞËTRÖ(„˜áRå" ÍO:e7±& _–bÜÁú¬ğ- ×a!D H ZcA/¬­æqè ï“Gˆ§ÎóêóÖB}…ÿ‡C¢€:!>|eÔö‘©VIJ}'¨x•yºr“àEz6µdñ±‰ÈÛÛå×üoÍıšs¹Òœ¾¹ñ®Uq¢ÒµêUwÑi9ó5d|Ø£ÿ_2şé;wK‹1M¡a'Îa¬Û4üß;ÉæÃ‰;%=`ƒîíá´ŠY qÓ‡`¸Ê•áüGÙ¤R$)ENüpxŸ~À{Ö G´2,á¤VQ05w«•^¨_š>š>pªÖ*í¦Xü>/04Û¨iÓè€2½n_kí+jıªb2Í\¾pîLñcú›(ƒÌô§ê‰/wè£{p’#.ÆÀ =ºş (F<èDt™ôT\#«x
+p_ñ„$|¨ho‰ˆ¦!™›8×ÕzG—ä¼ ¤g‘ $¥ÚXrT~ÆšP^"½ñG´WÇì²­À_L>m-yWè¿´/?	ûë#«êS•Ÿ4-j”zè}“î1ÈïQƒN <³Ù^ooÅ;¥kÑ­éöŞ*]Zî‚×±H@¡ËWe±ê7z·óÈkÏWî£#+~ÌßYÓwúÖán?y§ÿ(Ù­kÓËşï|ñ«v„é-%I}—õ.®QD*\gB;mk®“$İ}âI¥Õøy©T—óúş×WŞ²ûpèc»^ÿ”ÿrã&©B¸_>:Z‰› 4:Š5£ğs¹Ÿiı1î&,º‰ ÕrÔÆiòÌA¨+MX¯bşßJa~õ[÷rà‹õ•t8ğ:öl³3‹È,<#
+Ùª“£â=!lO»	Iğ`ECè<$ 5’Âè3 ±2³…\Š,mÓ&N<¥	6èÔàŒJmÛÂÊöà½İŸ‘c±Ü~%:¤ë4€ü¨Ó«®ªCiy ©…Ö˜²mÍ9”€nÌ]i;“APZi½ˆ÷pìÖ¾sÓÉªföe»Ùıxïıè/¾nxëáÁn›¬†÷=¤pd<@ÔĞNî¿ğ'({,F²Üw’ĞşiúóÎ«2ß¶ÇĞr+Ø¢Mg@Ñ©Jk•Ü†…i»Z·v†w’úR\ÚOªÓÃğ]«LWĞ¾ûöt¿zÔ¿=hÕ·œ¸ƒ9DÔ«8¾4~‡^”¹Ü§ƒ!ĞÁS&%»eÂVÓxÿ	ëõ2'˜‘õÏß$é2Ÿı7?ø“Q¿~rz6şÖ€=ÿ%½ =Y[¤D L¼¼PÌ@B qšåûZH†56r|+À)lB•Âb½{Lpƒ4\™ğ1”±¥±^UµiVŒ;—¢¹näO®\"E°3=äôawk§óã¾7.½Ú³7IúøÔGô  dÕ”å‡ÊŒÆÃM:1ÃJ¥%ºkÃ?xP(¾#z@4^²=ØKºtì{«õŞèn|ÏŒ÷¬ê|0í–¦ıÆşôÃhÇıìW_±^ÿãÛVoßü‡¿š¶[A´>Ş‰~Loà•«ó8˜¼d£·ÈzVww¯¼Öş’ò>…É
+y‹Vwcå¦kuç:Ô›Ÿ”œİË$—PàrZIªãK+CÇŞ[·ìI«}¤¡«"ğ5‡9ğ5·šcÍµÖ®jîS?ŒÏäpX)Œf¿",Ï¬S ÷ù?«Ì˜…FÀò)‚kDô[¢\€åhñOQ)”ÛŞƒïŸáØìøäŸãéq`Dc0’*Œˆ™Ú ÈíLJ,Ô"
+ˆ·/qZÁòRÕê®†Ãhà.u`°™Ò*üšOgNştpËàšbæ¨ûC¾­œo—œFmÜİyèÍ]º4øéşÏ,¿Q­ïüÅ]{àöÈÜØ¹İ­È	T¦ğ¼¯–_³[_^ÿà¿ı¤¼Ò^°Wj­äIoßÿÃ_ûÖä»?ù¯ö‡ÎjEÔ¢'Ã-«<G5ØÎ(Ş$Ù¡`×j40Ş†[áhï¡[ª¨ÁjÔ9¼C’ıídíînkº;]èFşŞ€À=öê9ÀÇÇbì}áÁ—0ÄDL]×dj>TÁB3¬¿\`ıE³OŠ~>Dòÿ)ÿ‘‹€ü÷ßğåëˆ‚|È^¤±L9K¢ }`EY¹(ÈİÄÇú ò_¾ëXY}lœ‹ÜEÖÂÄbä_ 2ğâ¡Ú't‹©× Å­{`aAbR’ 2Q¸¾Ìa­›ôñKœ	.O«ÆüK~HG¶	™98ÃLb‰Cá¿§¢Å=ƒuü<šºû£Şƒ(¾vHNJõñÙM'Q‰¢@¼)–­ÒŞ†í6ßwíj¥
+öÅÉ;»œ[•åèÿ<üEòdz7æzÑû»›ä«"ÇFé?J™ğÑ{^ûS¡ÿ±ÛØ‘|§v­}àL?U›QºÁà‰ïWâRëGvÊ¥òŸ¡üøÒŸzğem{Ìå¾Ü½òÖJëõ¬_ªöÛ-n«ãN+~Úö'Ìeaœp€|ãk<‰äx>æù"³PCVA³e_jWİÄ§LC!L	ˆö˜ú~bÍg K Q†oÛÅRÙS:$ø¬Ñ‰ªŞB©¢ô_B.#S°ú1pÎïÏĞE‹ì=|=ºc³š76ı`(á<WzÅWé=%³•Ë-Æ›<+Ú*«ÜQ79ªHEè8uŸ²…qW«ƒdøÂ˜® ,7Ç"dP|ÿğÈkÛsÑûO{ßşòg­Eo>ú«­Ÿ&[¥;å'{d|Xy±q5š@¥Ãê6×Cª{â
+]Æ¬ş°2Ô•…ÚşüáR9aırg4¬RÄ–VÃ“2.?À"„SS/Óö%óÛÏ€R`Å3À(r¹?æZşç¯ÍÁ	aÑúÇ™Ö‹kÁ½Ç‰?ÖÙ'ã,è€Y…0ºpë2|›NH´³Ûí,•D:í áË? Å³GŞYÔ3œ€RlÜ0òø¡/ˆËhıæ,
+;†×C`ğ½zy¥Ş'$Å~t#VÁo+­ekÚÙœZNZ”Ë=~—ğÑœ˜‡úª„Œtçª³DcÂr’@åÂy¤…ùªrÃÃÑ¼?Œp yªÀ+|æíĞ¯átf¥yC„•“)õ>kËşZğÆÚ7õ#§6öìV#˜ş7­j³½=¤şiãîëOÈ<ñÂjİ~Ù_¶¾àPu sXö?BU3z=Í)‘u)ÅŸ\¹d.ÈÎÏµ}t ‹Ò§}§€p«<-¤(¹¯XÊ°!3Ì²>½‚ÉÊ±ˆÖ²6şY›,ë:çY?§[ÿş:˜ÃÎ"€6‹+_Ï¨^¿‹¢`ÿqjrC™†JËır«!l4Hp,t1¬‚Ë˜„kó–â8ˆlAÓd®’:¤ú~ãMš:(›#Ab¶X…TèV¢;½½QD)V	7ÛÄ‘W –N48—ˆ%ïaM’B‚ÕÉú-Sv”*VˆQ8ì"\Xt¡°R[{ˆÆP
+%p¤	¨Ä¯&Í Ì¸»¾mÛ;ÓŸn>(Í×—¢ÿøÿ¬£ÁQX½JZÚ¡èÒ+XÔ\#¤X¶kŞådÁo$[ÎİíùäíÇ#‡¢ªÓ‰;âKÅª ŠŠ‰ ÑË‚	YŠ`ì|™z
+ğ%ºÈö4ş‚Ò—ÛûÆäc]‹1ù~ñ·)½ŸÇú¿{ø­@ƒ'*Œû|Ÿr÷æ¢\ âÆpF)4H@¼àÈ!$$ ‡P‹B¦Å*E’à˜õè?òy£òâ8—T
+Pi”8€  ñ|EÄ4û]±Âºqıºçt{X-ÖíOÃ8î‘ÿS!§™EÖšj*«nİşXrGõY\RH¨IxÀ%áDNpØO¢¤ùCVıT&kzÓ¤[¦húFxèÿÖâwJ¯,ÜšüøÁÊ¡½Vª·(K¸Íæ*My-ˆ²ç¹G#çïœr_>if–&"§ÉòÅN†rŠ!ïI0öeíXÆÃ§Ğ®üû>Äp"óÏ¿¨ôİX„ÈŞÏå>Sh½4ìsX¿cà	4Ÿ3 mE«@Ûr7±¾ wËI$Ëà	›–NÀK²”Mv~Ní	ä6ÆÕŸZ4e§zj*Ä”€[nÎUHæ…?LâQx	ÂGÃJ¦p´H>Üª*ŸcbÂ4ñEÌHzAc¸	.DöŠ£`[³Ú/ˆ…±Å\'õqÌ*”¨Î’ 4	
+Ã°HÕ÷ë"ÓæKËßHî#PCÂ„½°ïÛGñÆp×}iéëÑî}kıpìiõæè‰ûAîï%aoš¿¸¸ŠN¸ß›ïÒBehÒ$N`‚ªWTO,¿Q¶eĞø¾²}OÆ¬'ÆÑ#œ›{9ğÒë?üY‡®ñïfB÷bˆêå§w?	tÔwÙ®‡Ï‡.øváØÏ|Òr­Ÿ=:HWA^ÁaÚŠ6XÍÚ”³2_XÍ*’;íô·Ãt·bIÙ‹AUÊ£¦Ÿ)…–Gå^FDøÄ_©.9¡01Ëq>uñ•™¼}z—:{!ëˆi((—óµìóWğ'¨.W¢ƒ]RFÊí¡çîPKŒÖ¸zµ2¨Öi"ø‚V´»Ğv¶Ê­kx%+¯&»‹[öø!µI·'¡·°év+ÓyíÒ%”gXom¢£í‰O²{xR>x’:‰ÛÛ–aùZÈ™-å6ÜO9}}HûN¹¡2çÿXé{ç'o'àÏÂêÏ>—…%Xÿ…HğGI),…hïgÛšk–uíúó!.(tà°÷…Z¬QŸ#'ÂÂQG,n¢(›HH €
+Q„x¬Bb•0İv -ä9’rv œŞÈ3’Nµ€‰F[.çÂnÙ¨ÿz9µÇ1*Tg/â›w©ÀôxR©şşŞ4Ú÷è@J"ĞVm!¡´&>EegMY-¨´2{H?ğö©úKÇ7¹”,}+ùN‚{nü×ß›ìNV¯[á "ÉØP¼”/€/Y/n`´|½K‘êù©d[Eö”Í›SOß
+üG÷I Ã,KJ_1Ò§mrø|O_Î|m5§/"€vşÇ-èKa€¼ÖìüÜİîÙä|ŠEù=5R‡ÈáQ¼ƒ)6!c½ öQF/*?CÊeÔ”¡R× ƒşHZX‘#`1JĞH±‘Ú †+°}|5QQ¦şÏ.uƒu@/­Zƒv&¬ş¥ä¼Ÿô©:ŠC
+wôÿŠ–ÜÁ^ ¢´K‡'¼­L3 £
+$ˆ$Ç´'´© ][€ÄåäŒš“ 6œ°îê–†n¢u¼[±{”ö“
+ç¦²|¼{©'ù@ä…$v(´;Ù«p-b9xùŒ£‘zc¶/s¯ü›¼ŒğÔÜÿóìOí0@ÏÀ]@ “m=FŠSç=/pÒİ½¡} íQm%Ê8eÒâç |‰9+tpÎ*M(ß5bA›"(BÆ5 *!KŠ0)…d0fe„’–›Î¸Ó–ª.­cYa®l2+&ÜOÃ'uG2(07äk`ÖTˆ^…Åø¸¿Wª,ùATáq`¥’V4ñĞB=Î0^JIéï¢j¸F ÇN€obø(²9àõü†İcuÂK§X²^c–å+£‡×TJ—²z"2á°óÍ±s`Û…Ôìû× Ÿ»S¿á°ŸŠ³ú€®Päõ5ËzñÀ™Z[ø”H¢áiM¯ï§ô°]tTE¾çÜ@x# ‘!‚8‚:ÚïÚ‹•Mœr“!Ë¯ìf|¥âîİ_v¯\ºÂšÍœFÁÉ&Ÿk©½œ?Æ_c×lg»Y6<¢î4êdxD«‡	º’ğÑÄP6gÁ£ÌÙ VÉ«(	Â8í PzNQ±¸‹Ê›Òfåù«?¦ø"àÅ…t=¨>"éCéuægä½¨Ş, eï52ÔWhŠn¾{wáØÊ8òuıgÈ}snö'èâ¾óFçn7‡=	tĞkß4HĞGëÿ`«{F9ôHx’H .g¸ìİ8‡ÄÚ%û52DAi«å»û±ãºÉ~¼ï]±×ìıÒjÛş'nlmoyo{¤êMÇ6ªx@İŠƒP«$
+ÈÿÅGQ/“]¹C¾ñ%¯Ğùm=4vh@”r®œÒ…ëY4jáStX¼pKÔ®È³RµµÀ#]¬Q x¶]D2%v=¨^A”åKqHæÛ—ÕbÎãõ|ESïã_“™"«n’suî>sŞq-MDq9¶gHP´´™®hF/Us±~Sƒk ÂAÜjÄ|Jn½ño[½Î‡
+ÖØÍàó‹–û¿–¼fË:İĞıìƒİämº)ëNæE©é{¤p5;4­¨ÈNL}L: ËC2³OQ’Fl!«¹ÀÔDéªÈ•ı˜Úu|®Ùëû,àñ†U„º°„1f‡¥Š¢Š]¹wï”{wÖÎ?øz¾?;`=F6N±ş|ã…@~&œÇ	4iEñú¯’c‡|åîî fz^.7å9Lj$îè‰d.jrÀ.¿æ¸cD %¤æK£TËØ©Ùå¹E+Üß§//ñ’HÂøô@ ±ÀT\è‡œPù@IôIÕÏ	N²)Ò×kÏG*½­Í9ÀõıB kgÎê3Š7¡o0×NßMÁ=¡M-¦¼@wNõ:İÈû¥LÙëó ÷ÿşä¹fM=ğt¶¯#Î¾v\ˆ æ,ıyÚ1ÏƒÒÖ®›ûôQ?ØKE‚.œ*ˆ)=#4YÈIrkàÊX™àÌ¿àÄÛ[U×0C²½r•szÜ@9;$ï¥'_ƒä7+Cã1AÜì£,ÊF×;Ï·ëó˜µç‹”®m9µë{&ã•§OÂ+ì?ü9ì^+wsEÏ°|r.j(f<¸"ïµá—|]ò© ²Y¸ø¸‹à×îè
+Ù(ˆ„ÜTÔ½tn.ŠB$DÇúA†:~{ĞR+è|<ˆJ~‘>2'ÕÔ¡€Ú'?ƒş?mˆ²õÿÔ°µ4[æ[qS;ÜK$£CÌ ^\®ÈîsóN—”OÿØÄ›eùÊèY³Ï®ç¼XáÓe/¤|íÔ¸°é~ó÷!Î,:Œôûòë¸ÀæôÍˆ…Ü{¨Ÿp*Ä™ˆ Çş¾Ã2 ßéóXDè8LaSVò)¤H÷~ò¿¶Ff˜ï9Ğ…–dËœ ½ÊÔÅóµx½[‘İë½zº¨²¯ÖM9¿¯sßYû% _—y.ĞÏD‚ßçZÂÔÙ¡-êÚŸs¾nuB{v¹fòø­	)"‚iw`†8©A\ÀËÀô€†;d¾ãìÈ.svÇÌ–"ó]¶l~®¡Ü{ó:N¤âóèÚ­¡ê©ŒO™¼Va“¼™Ní,Õëç±|mgı9H´áÌx&åçg<7è„g"Áô•ê€íëùmù”÷p-õHIÜêlµ3/"‚Küç`‚I™#)§(ƒ²ÌCe‘qİEH!ÇşAó)=Ÿ•ùO}g•WM+&JçL!I¼ÊP¸.rŠÊ3D0Ú<‡æÏ–;r„¦î"%x‹ï¥åZ+VğÈ£'À?À¶Ï]ººÉeşÏåÓ­…q±{7?è¹¯:ù‹ŸÏD|™¨íçq‰……E„x:ç!‚œ¦$ç‹vŒW‘_ù¤!ÓÜuÌé‘Rù¹zÿÉ/ÕÖ¥GT¶áüë‹B>#2ÖŸ)Ğõ‚é3J¾+iã©€×ê«"»×]/¢z=ÊÓÍ<ı±€¯ò7Õ÷çÏ…ç¹ó;Ìú´}ú$æN¤ü4‰‡"WH·³S2o‹^ŠA
+¤ÙCŸEô*'Sd13“CWf£xíÓì]{ÏR»¶ê™3GYrŠ?ğçÙöº€ÆSüúéæïÇ¾ÎúD Ÿ	¾Îßä³Ú«. 1+´­ˆú‹”¡ÃÚœš´Y+Î „ĞgJyÚ“Rm)´UÀû8#‡½Î9¶~eÂ}Dá°øS”nàÙšgİÈmym«?ğOc÷b(ÍT_xêøDÀ×?1èäçBx‘‚¨}zÉ=£¨h{QGĞoVİ=<‹Ú%„Ğ8áú•Kßó1ËÖóíùçÅçäò\G‘Q¿utV‘§­?´•qŒ×v~)¼ˆ8­èé*à1o3>æŸè^…»?ûZéºAZZbÖ¶|,£'Ì£'˜FÙF&v‹ÄY³ É:FıräÛŸö)ªÎ÷?ëºF“Wù±÷|¨ÌË>ò=+À™o6ŸbõÒ2/¼.ólY¯K}bª×Éùx®	É~Úçssƒ7¸Ê×"t!Ã¬é¨íB†•LiL·¤Aé=ªÉšĞ¸xé	Ïÿ7ç.ÒŞÕjÍtZ+\—¥«ôşy@È£tz   IDAT×ş‹”;íÓĞ;ÿ äøùõ¬?¿àë&ÿ¡ [}Ì4    IEND®B`‚€¹*             Ù€       E            †€  Ù€  PreviewAssetData   AssetInfo_______    

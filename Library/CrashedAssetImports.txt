@@ -1,0 +1,1 @@
+Assets/Sprites/Player_Shield/Shields_00007.png
